@@ -1,0 +1,690 @@
+LIBRARYREFERENCE,FOOTPRINT1,COMMENT,COMPONENTLINK1DESCRIPTION,COMPONENTLINK1URL,PACKAGE,SUPPLIER,SUPPLIERSPARTNUMBER,SHEETPART,DESIGNATOR,DESCRIPTION
+0402 1.0uF (105) 10% 25V,LC-0402_C,1.0uF (105) 10% 25V,供应商链接,http://www.szlcsc.com/product/details_53938.html,402,LC,C52923,*,C?,贴片电容
+0402 1.5nF (152) 10% 50V,LC-0402_C,1.5nF (152) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_24707.html,402,LC,C23967,*,C?,贴片电容
+0402 1.5pF (1R5) 0.25pF 50V,LC-0402_C,1.5pF (1R5) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_1904.html,402,LC,C1552,*,C?,贴片电容
+0402 100nF (104) 10% 16V,LC-0402_C,100nF (104) 10% 16V,供应商链接,http://www.szlcsc.com/product/details_1877.html,402,LC,C1525,*,C?,贴片电容
+0402 100pF (101) 5% 50V,LC-0402_C,100pF (101) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1898.html,402,LC,C1546,*,C?,贴片电容
+0402 10nF (103) 10% 50V,LC-0402_C,10nF (103) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_15869.html,402,LC,C15195,*,C?,贴片电容
+0402 10pF (100) 5% 50V,LC-0402_C,10pF (100) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_33914.html,402,LC,C32949,*,C?,贴片电容
+0402 10uF (106) 20% 6.3V,LC-0402_C,10uF (106) 20% 6.3V,供应商链接,http://www.szlcsc.com/product/details_16204.html,402,LC,C15525,*,C?,贴片电容
+0402 12pF (120) 5% 50V,LC-0402_C,12pF (120) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1899.html,402,LC,C1547,*,C?,贴片电容
+0402 150pF (151) 10% 50V,LC-0402_C,150pF (151) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1879.html,402,LC,C1527,*,C?,贴片电容
+0402 15pF (150) 5% 50V,LC-0402_C,15pF (150) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1900.html,402,LC,C1548,*,C?,贴片电容
+0402 18pF (180) 5% 50V,LC-0402_C,18pF (180) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1901.html,402,LC,C1549,*,C?,贴片电容
+0402 1nF (102) 10% 50V,LC-0402_C,1nF (102) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1875.html,402,LC,C1523,*,C?,贴片电容
+0402 1pF (1R0) 0.25pF 50V,LC-0402_C,1pF (1R0) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_1902.html,402,LC,C1550,*,C?,贴片电容
+0402 2.0pF (2R0) 0.25pF 50V,LC-0402_C,2.0pF (2R0) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_1910.html,402,LC,C1558,*,C?,贴片电容
+0402 2.2nF (222) 10% 50V,LC-0402_C,2.2nF (222) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1883.html,402,LC,C1531,*,C?,贴片电容
+0402 2.2pF (2R2) 0.25pF 50V,LC-0402_C,2.2pF (2R2) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_1911.html,402,LC,C1559,*,C?,贴片电容
+0402 2.7pF (2R7) 0.25pF 50V,LC-0402_C,2.7pF (2R7) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_1913.html,402,LC,C1561,*,C?,贴片电容
+0402 20pF (200) 5% 50V,LC-0402_C,20pF (200) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1906.html,402,LC,C1554,*,C?,贴片电容
+0402 220nF (224) 10% 16V,LC-0402_C,220nF (224) 10% 16V,供应商链接,http://www.szlcsc.com/product/details_17456.html,402,LC,C16772,*,C?,贴片电容
+0402 220pF (221) 10% 50V,LC-0402_C,220pF (221) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1882.html,402,LC,C1530,*,C?,贴片电容
+0402 22nF (223) 10% 50V,LC-0402_C,22nF (223) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1884.html,402,LC,C1532,*,C?,贴片电容
+0402 22pF (220) 5% 50V,LC-0402_C,22pF (220) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1907.html,402,LC,C1555,*,C?,贴片电容
+0402 27pF (270) 5% 50V,LC-0402_C,27pF (270) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1909.html,402,LC,C1557,*,C?,贴片电容
+0402 3.3nF (332) 10% 50V,LC-0402_C,3.3nF (332) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_27148.html,402,LC,C26404,*,C?,贴片电容
+0402 3.3pF (3R3) 0.25pF 50V,LC-0402_C,3.3pF (3R3) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_1917.html,402,LC,C1565,*,C?,贴片电容
+0402 30pF (300) 5% 50V,LC-0402_C,30pF (300) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1922.html,402,LC,C1570,*,C?,贴片电容
+0402 330pF (331) 5% 50V,LC-0402_C,330pF (331) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_14182.html,402,LC,C13533,*,C?,贴片电容
+0402 33nF (333) 20% 50V,LC-0402_C,33nF (333) 20% 50V,供应商链接,http://www.szlcsc.com/product/details_1937.html,402,LC,C1585,*,C?,贴片电容
+0402 33pF (330) 5% 50V,LC-0402_C,33pF (330) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1914.html,402,LC,C1562,*,C?,贴片电容
+0402 4.7nF (472) 10% 50V,LC-0402_C,4.7nF (472) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1890.html,402,LC,C1538,*,C?,贴片电容
+0402 4.7pF (4R7) 0.25pF 50V,LC-0402_C,4.7pF (4R7) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_1921.html,402,LC,C1569,*,C?,贴片电容
+0402 4.7uF (475) 20% 10V,LC-0402_C,4.7uF (475) 20% 10V,供应商链接,http://www.szlcsc.com/product/details_24469.html,402,LC,C23733,*,C?,贴片电容
+0402 470nF (474) 10% 10V,LC-0402_C,470nF (474) 10% 10V,供应商链接,http://www.szlcsc.com/product/details_48344.html,402,LC,C47339,*,C?,贴片电容
+0402 470pF (471) 10% 50V,LC-0402_C,470pF (471) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1889.html,402,LC,C1537,*,C?,贴片电容
+0402 47pF (470) 5% 50V,LC-0402_C,47pF (470) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1919.html,402,LC,C1567,*,C?,贴片电容
+0402 56pF (560) 5% 50V,LC-0402_C,56pF (560) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1924.html,402,LC,C1572,*,C?,贴片电容
+0402 6.0pF (6R0) 0.25pF 50V NPO,LC-0402_C,6.0pF (6R0) 0.25pF 50V NPO,供应商链接,http://www.szlcsc.com/product/details_31031.html,402,LC,C30274,*,C?,贴片电容
+0402 6.8nF (682) 10% 50V,LC-0402_C,6.8nF (682) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1894.html,402,LC,C1542,*,C?,贴片电容
+0402 6.8pF (6R8) 0.25pF 50V,LC-0402_C,6.8pF (6R8) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_1928.html,402,LC,C1576,*,C?,贴片电容
+0402 68pF (680) 5% 50V,LC-0402_C,68pF (680) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_15103.html,402,LC,C14441,*,C?,贴片电容
+0603 1.0pF (010) 0.25pF 50V,LC-0603_C,1.0pF (010) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_24709.html,603,LC,C23969,*,C?,贴片电容
+0603 1.2nF (122) 10% 50V,LC-0603_C,1.2nF (122) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_31372.html,603,LC,C30615,*,C?,贴片电容
+0603 1.5nF (152) 10% 50V,LC-0603_C,1.5nF (152) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1947.html,603,LC,C1595,*,C?,贴片电容
+0603 1.5pF (1R5) 0.25pF 50V,LC-0603_C,1.5pF (1R5) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_1991.html,603,LC,C1639,*,C?,贴片电容
+0603 100nF (104) 10% 50V,LC-0603_C,100nF (104) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_15331.html,603,LC,C14663,*,C?,贴片电容
+0603 100pF (101) 5% 50V,LC-0603_C,100pF (101) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_15530.html,603,LC,C14858,*,C?,贴片电容
+0603 10nF (103) 10% 50V,LC-0603_C,10nF (103) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_58143.html,603,LC,C57112,*,C?,贴片电容
+0603 10pF (100) 5% 50V,LC-0603_C,10pF (100) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1986.html,603,LC,C1634,*,C?,贴片电容
+0603 10uF (106) 10% 10V,LC-0603_C,10uF (106) 10% 10V,供应商链接,http://www.szlcsc.com/product/details_20411.html,603,LC,C19702,*,C?,贴片电容
+0603 12nF (123) 10% 50V,LC-0603_C,12nF (123) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1945.html,603,LC,C1593,*,C?,贴片电容
+0603 12pF (120) 5% 50V,LC-0603_C,12pF (120) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_39506.html,603,LC,C38523,*,C?,贴片电容
+0603 150pF (151) 10% 50V,LC-0603_C,150pF (151) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1946.html,603,LC,C1594,*,C?,贴片电容
+0603 15nF (153) 10% 50V,LC-0603_C,15nF (153) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1948.html,603,LC,C1596,*,C?,贴片电容
+0603 15pF (150) 5% 50V,LC-0603_C,15pF (150) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1996.html,603,LC,C1644,*,C?,贴片电容
+0603 18pF (180) 5% 50V,LC-0603_C,18pF (180) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_1999.html,603,LC,C1647,*,C?,贴片电容
+0603 1nF (102) 10% 50V,LC-0603_C,1nF (102) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1940.html,603,LC,C1588,*,C?,贴片电容
+0603 1uF (105) 10% 50V,LC-0603_C,1uF (105) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_16531.html,603,LC,C15849,*,C?,贴片电容
+0603 2.0pF (020) 0.25pF 50V,LC-0603_C,2.0pF (020) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_22617.html,603,LC,C21895,*,C?,贴片电容
+0603 2.2nF (222) 10% 50V,LC-0603_C,2.2nF (222) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1956.html,603,LC,C1604,*,C?,贴片电容
+0603 2.2uF (225) 10% 16V,LC-0603_C,2.2uF (225) 10% 16V,供应商链接,http://www.szlcsc.com/product/details_24366.html,603,LC,C23630,*,C?,贴片电容
+0603 2.7nF (272) 10% 50V,LC-0603_C,2.7nF (272) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1961.html,603,LC,C1609,*,C?,贴片电容
+0603 2.7pF (2R7) 0.25pF 50V,LC-0603_C,2.7pF (2R7) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_16831.html,603,LC,C16149,*,C?,贴片电容
+0603 200pF (201) 10% 50V,LC-0603_C,200pF (201) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1952.html,603,LC,C1600,*,C?,贴片电容
+0603 20pF (200) 5% 50V,LC-0603_C,20pF (200) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2000.html,603,LC,C1648,*,C?,贴片电容
+0603 220nF (224) 10% 25V,LC-0603_C,220nF (224) 10% 25V,供应商链接,http://www.szlcsc.com/product/details_21832.html,603,LC,C21120,*,C?,贴片电容
+0603 220pF (221) 10% 50V,LC-0603_C,220pF (221) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1955.html,603,LC,C1603,*,C?,贴片电容
+0603 22nF (223) 10% 50V,LC-0603_C,22nF (223) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_21834.html,603,LC,C21122,*,C?,贴片电容
+0603 22pF (220) 5% 50V,LC-0603_C,22pF (220) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2005.html,603,LC,C1653,*,C?,贴片电容
+0603 22uF (226) 20% 6.3V,LC-0603_C,22uF (226) 20% 6.3V,供应商链接,http://www.szlcsc.com/product/details_60514.html,603,LC,C59461,*,C?,贴片电容
+0603 27nF (273) 20% 50V,LC-0603_C,27nF (273) 20% 50V,供应商链接,http://www.szlcsc.com/product/details_2052.html,603,LC,C1700,*,C?,贴片电容
+0603 27pF (270) 5% 50V,LC-0603_C,27pF (270) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2008.html,603,LC,C1656,*,C?,贴片电容
+0603 3.3nF (332) 10% 50V,LC-0603_C,3.3nF (332) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1965.html,603,LC,C1613,*,C?,贴片电容
+0603 30pF (300) 5% 50V,LC-0603_C,30pF (300) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_23122.html,603,LC,C22397,*,C?,贴片电容
+0603 330nF (334) 10% 25V,LC-0603_C,330nF (334) 10% 25V,供应商链接,http://www.szlcsc.com/product/details_1967.html,603,LC,C1615,*,C?,贴片电容
+0603 330pF (331) 5% 50V,LC-0603_C,330pF (331) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2016.html,603,LC,C1664,*,C?,贴片电容
+0603 33nF (333) 10% 50V,LC-0603_C,33nF (333) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_21829.html,603,LC,C21117,*,C?,贴片电容
+0603 33pF (330) 5% 50V,LC-0603_C,33pF (330) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2015.html,603,LC,C1663,*,C?,贴片电容
+0603 3pF (3R0) 0.25pF 50V,LC-0603_C,3pF (3R0) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_47222.html,603,LC,C46219,*,C?,贴片电容
+0603 4.7nF (472) 10% 50V,LC-0603_C,4.7nF (472) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_55004.html,603,LC,C53987,*,C?,贴片电容
+0603 4.7pF (4R7) 0.25pF 50V,LC-0603_C,4.7pF (4R7) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_2021.html,603,LC,C1669,*,C?,贴片电容
+0603 4.7uF (475) 10% 16V,LC-0603_C,4.7uF (475) 10% 16V,供应商链接,http://www.szlcsc.com/product/details_20375.html,603,LC,C19666,*,C?,贴片电容
+0603 470nF (474) 10% 25V,LC-0603_C,470nF (474) 10% 25V,供应商链接,http://www.szlcsc.com/product/details_1975.html,603,LC,C1623,*,C?,贴片电容
+0603 470pF (471) 10% 50V,LC-0603_C,470pF (471) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1972.html,603,LC,C1620,*,C?,贴片电容
+0603 47nF (473) 10% 50V,LC-0603_C,47nF (473) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1974.html,603,LC,C1622,*,C?,贴片电容
+0603 47pF (470) 5% 50V,LC-0603_C,47pF (470) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2023.html,603,LC,C1671,*,C?,贴片电容
+0603 56pF (560) 5% 50V,LC-0603_C,56pF (560) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_40131.html,603,LC,C39148,*,C?,贴片电容
+0603 6.8nF (682) 10% 50V,LC-0603_C,6.8nF (682) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1983.html,603,LC,C1631,*,C?,贴片电容
+0603 6.8pF (6R8) 0.25pF 50V,LC-0603_C,6.8pF (6R8) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_2031.html,603,LC,C1679,*,C?,贴片电容
+0603 680pF (681) 10% 50V,LC-0603_C,680pF (681) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_1982.html,603,LC,C1630,*,C?,贴片电容
+0603 68nF (683) 10% 50V,LC-0603_C,68nF (683) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_32617.html,603,LC,C31658,*,C?,贴片电容
+0603 68pF (680) 5% 50V,LC-0603_C,68pF (680) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_29012.html,603,LC,C28262,*,C?,贴片电容
+0603 6pF (6R0) 0.25pF 50V,LC-0603_C,6pF (6R0) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_38453.html,603,LC,C37474,*,C?,贴片电容
+0603 8.2nF (822) 10% 50V,LC-0603_C,8.2nF (822) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_28670.html,603,LC,C27920,*,C?,贴片电容
+0603 8.2pF (8R2) 0.25pF 50V,LC-0603_C,8.2pF (8R2) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_2037.html,603,LC,C1685,*,C?,贴片电容
+0603 82pF (820) 5% 50V,LC-0603_C,82pF (820) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2035.html,603,LC,C1683,*,C?,贴片电容
+0805 1.0pF (010) 0.25pF 50V,LC-0805_C,1.0pF (010) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_15644.html,805,LC,C14971,*,C?,贴片电容
+0805 1.5nF (152) 10% 50V,LC-0805_C,1.5nF (152) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2069.html,805,LC,C1717,*,C?,贴片电容
+0805 1.5pF (1R5) 0.25pF 50V,LC-0805_C,1.5pF (1R5) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_2140.html,805,LC,C1788,*,C?,贴片电容
+0805 100nF(104) 10% 50V,LC-0805_C,100nF(104) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_50686.html,805,LC,C49678,*,C?,贴片电容
+0805 100pF (101) 5% 50V,LC-0805_C,100pF (101) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2142.html,805,LC,C1790,*,C?,贴片电容
+0805 10nF (103) 10% 50V,LC-0805_C,10nF (103) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2062.html,805,LC,C1710,*,C?,贴片电容
+0805 10pF (100) 5% 50V,LC-0805_C,10pF (100) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2137.html,805,LC,C1785,*,C?,贴片电容
+0805 10uF (106) 10% 25V,LC-0805_C,10uF (106) 10% 25V,供应商链接,http://www.szlcsc.com/product/details_16532.html,805,LC,C15850,*,C?,贴片电容
+0805 12pF (120) 5% 50V,LC-0805_C,12pF (120) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2144.html,805,LC,C1792,*,C?,贴片电容
+0805 150pF (151) 10% 50V,LC-0805_C,150pF (151) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2068.html,805,LC,C1716,*,C?,贴片电容
+0805 15pF (150) 5% 50V,LC-0805_C,15pF (150) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2146.html,805,LC,C1794,*,C?,贴片电容
+0805 18pF (180) 5% 50V,LC-0805_C,18pF (180) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2149.html,805,LC,C1797,*,C?,贴片电容
+0805 1nF (102) 10% 50V,LC-0805_C,1nF (102) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_52223.html,805,LC,C51210,*,C?,贴片电容
+0805 1uF (105) 10% 50V,LC-0805_C,1uF (105) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_29074.html,805,LC,C28323,*,C?,贴片电容
+0805 2.0pF (2R0) 0.25pF 50V,LC-0805_C,2.0pF (2R0) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_2152.html,805,LC,C1800,*,C?,贴片电容
+0805 2.2nF (222) 5% 50V,LC-0805_C,2.2nF (222) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_29010.html,805,LC,C28260,*,C?,贴片电容
+0805 2.2uF (225) 20% 50V,LC-0805_C,2.2uF (225) 20% 50V,供应商链接,http://www.szlcsc.com/product/details_50225.html,805,LC,C49217,*,C?,贴片电容
+0805 2.7pF (2R7) 0.25pF 50V,LC-0805_C,2.7pF (2R7) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_2155.html,805,LC,C1803,*,C?,贴片电容
+0805 200pF (201) 10% 50V,LC-0805_C,200pF (201) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2076.html,805,LC,C1724,*,C?,贴片电容
+0805 20pF (200) 5% 50V,LC-0805_C,20pF (200) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2150.html,805,LC,C1798,*,C?,贴片电容
+0805 220nF (224) 10% 50V,LC-0805_C,220nF (224) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_5810.html,805,LC,C5378,*,C?,贴片电容
+0805 220pF (221) 10% 50V,LC-0805_C,220pF (221) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_54188.html,805,LC,C53172,*,C?,贴片电容
+0805 22nF (223) 10% 50V,LC-0805_C,22nF (223) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2081.html,805,LC,C1729,*,C?,贴片电容
+0805 22pF (220) 5% 50V,LC-0805_C,22pF (220) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2156.html,805,LC,C1804,*,C?,贴片电容
+0805 22uF (226) 20% 25V,LC-0805_C,22uF (226) 20% 25V,供应商链接,http://www.szlcsc.com/product/details_46786.html,805,LC,C45783,*,C?,贴片电容
+0805 27pF (270) 5% 50V,LC-0805_C,27pF (270) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_8509.html,805,LC,C8031,*,C?,贴片电容
+0805 3.3nF (332) 10% 50V,LC-0805_C,3.3nF (332) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_54191.html,805,LC,C53175,*,C?,贴片电容
+0805 30pF (300) 5% 50V,LC-0805_C,30pF (300) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2161.html,805,LC,C1809,*,C?,贴片电容
+0805 330nF (334) 10% 50V,LC-0805_C,330nF (334) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2092.html,805,LC,C1740,*,C?,贴片电容
+0805 330pF (331) 10% 50V,LC-0805_C,330pF (331) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_52220.html,805,LC,C51207,*,C?,贴片电容
+0805 33nF (333) 10% 50V,LC-0805_C,33nF (333) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2091.html,805,LC,C1739,*,C?,贴片电容
+0805 33pF (330) 5% 50V,LC-0805_C,33pF (330) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2166.html,805,LC,C1814,*,C?,贴片电容
+0805 4.7nF (472) 10% 50V,LC-0805_C,4.7nF (472) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2096.html,805,LC,C1744,*,C?,贴片电容
+0805 4.7pF (4R7) 0.25pF 50V,LC-0805_C,4.7pF (4R7) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_2172.html,805,LC,C1820,*,C?,贴片电容
+0805 4.7uF (475) 10% 25V,LC-0805_C,4.7uF (475) 10% 25V,供应商链接,http://www.szlcsc.com/product/details_2131.html,805,LC,C1779,*,C?,贴片电容
+0805 470nF (474) 10% 50V,LC-0805_C,470nF (474) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_14623.html,805,LC,C13967,*,C?,贴片电容
+0805 470pF (471) 10% 50V,LC-0805_C,470pF (471) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2095.html,805,LC,C1743,*,C?,贴片电容
+0805 47nF (473) 10% 50V,LC-0805_C,47nF (473) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_54150.html,805,LC,C53134,*,C?,贴片电容
+0805 47pF (470) 5% 50V,LC-0805_C,47pF (470) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_15529.html,805,LC,C14857,*,C?,贴片电容
+0805 56pF (560) 5% 50V,LC-0805_C,56pF (560) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2180.html,805,LC,C1828,*,C?,贴片电容
+0805 6.8nF (682) 10% 50V,LC-0805_C,6.8nF (682) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2107.html,805,LC,C1755,*,C?,贴片电容
+0805 6.8pF (6R8) 0.25pF 50V,LC-0805_C,6.8pF (6R8) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_2184.html,805,LC,C1832,*,C?,贴片电容
+0805 680pF (681) 10% 50V,LC-0805_C,680pF (681) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_54166.html,805,LC,C53150,*,C?,贴片电容
+0805 68nF (683) 10% 50V,LC-0805_C,68nF (683) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2108.html,805,LC,C1756,*,C?,贴片电容
+0805 68pF (680) 5% 50V,LC-0805_C,68pF (680) 5% 50V,供应商链接,http://www.szlcsc.com/product/details_2186.html,805,LC,C1834,*,C?,贴片电容
+0805 6pF (6R0) 0.25pF 50V,LC-0805_C,6pF (6R0) 0.25pF 50V,供应商链接,http://www.szlcsc.com/product/details_68656.html,805,LC,C67560,*,C?,贴片电容
+1206 100nF (104) 10% 50V,LC-1206_C,100nF (104) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_25237.html,1206,LC,C24497,*,C?,贴片电容
+1206 10nF (103) 10% 50V,LC-1206_C,10nF (103) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2198.html,1206,LC,C1846,*,C?,贴片电容
+1206 10uF (106) 10% 50V,LC-1206_C,10uF (106) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_14236.html,1206,LC,C13585,*,C?,贴片电容
+1206 1nF (102) 10% 500V,LC-1206_C,1nF (102) 10% 500V,供应商链接,http://www.szlcsc.com/product/details_36187.html,1206,LC,C35216,*,C?,贴片电容
+1206 1uF (105) 10% 50V,LC-1206_C,1uF (105) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2200.html,1206,LC,C1848,*,C?,贴片电容
+1206 2.2uF (225) 10% 50V,LC-1206_C,2.2uF (225) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_13292.html,1206,LC,C12656,*,C?,贴片电容
+1206 220nF (224) 10% 50V,LC-1206_C,220nF (224) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2209.html,1206,LC,C1857,*,C?,贴片电容
+1206 220pF (221) 10% 50V,LC-1206_C,220pF (221) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2206.html,1206,LC,C1854,*,C?,贴片电容
+1206 4.7uF (475) 10% 50V,LC-1206_C,4.7uF (475) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_30577.html,1206,LC,C29823,*,C?,贴片电容
+1206 470nF (474) 10% 50V,LC-1206_C,470nF (474) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2223.html,1206,LC,C1871,*,C?,贴片电容
+1206 470pF (471) 10% 50V,LC-1206_C,470pF (471) 10% 50V,供应商链接,http://www.szlcsc.com/product/details_2220.html,1206,LC,C1868,*,C?,贴片电容
+3216 10uF (106) 10% 16V,LC-CASE-A_3216,10uF (106) ±10% 16V,供应商链接,http://www.szlcsc.com/product/details_7643.html,3216,LC,C7171,*,C?,钽电容
+3528 100uF (107) 10% 6.3V,LC-CASE-B_3528,100uF (107) ±10% 6.3V,供应商链接,http://www.szlcsc.com/product/details_16815.html,3528,LC,C16133,*,C?,钽电容
+SMD-3215_2P 32.768KHz 20ppm 12.5pF,LC-SMD-3215_2P FC - 135,32.768KHz ±20ppm 12.5pF,供应商链接,http://www.szlcsc.com/product/details_33310.html,SMD-3215_2P,LC,C32346,*,Y?,贴片晶振
+SMD-3225_4P  12MHZ 20PF 10PPM,LC-SMD-3225_4P,12MHZ 20PF 10PPM,供应商链接,http://www.szlcsc.com/product/details_9522.html,SMD-3225_4P,LC,C9002,*,Y?,贴片晶振
+SMD-3225_4P  16MHZ 9PF 10PPM,LC-SMD-3225_4P,16MHZ 9PF 10PPM,供应商链接,http://www.szlcsc.com/product/details_14393.html,SMD-3225_4P,LC,C13738,*,Y?,贴片晶振
+SMD-3225_4P  25MHZ 12PF 10PPM,LC-SMD-3225_4P,25MHZ 12PF 10PPM,供应商链接,http://www.szlcsc.com/product/details_9526.html,SMD-3225_4P,LC,C9006,*,Y?,贴片晶振
+SMD-5032_2P 11.0592MHZ 20PF 20PPM,LC-SMD-5032_2P,11.0592MHZ 20PF 20PPM,供应商链接,http://www.szlcsc.com/product/details_53039.html,SMD-5032_2P,LC,C52026,*,Y?,贴片晶振
+SMD-5032_2P 8MHz 20ppm 20pF,LC-SMD-5032_2P,8MHz ±20ppm 20pF,供应商链接,http://www.szlcsc.com/product/details_19261.html,SMD-5032_2P,LC,C18560,*,Y?,贴片晶振
+DBS DB107S,LC-DBS,DB107S,供应商链接,http://www.szlcsc.com/product/details_5809.html,DBS,LC,C5377,*,D?,整流桥
+LL-34 LL4148 LL-34 1206,LC-LL-34,LL4148 LL-34 1206,供应商链接,http://www.szlcsc.com/product/details_10338.html,LL-34,LC,C9808,*,D?,开关二极管
+MBS MB10S,LC-MBS,MB10S,供应商链接,http://www.szlcsc.com/product/details_2865.html,MBS,LC,C2488,*,D?,整流桥
+SMA(DO-214AC) M7,LC-SMA(DO-214AC)_S1,M7,供应商链接,http://www.szlcsc.com/product/details_2841.html,SMA(DO-214AC),LC,C2464,*,D?,二极管
+SMA(DO-214AC) SS210,LC-SMA(DO-214AC)_S1,SS210,供应商链接,http://www.szlcsc.com/product/details_15669.html,SMA(DO-214AC),LC,C14996,*,D?,二极管
+SMA(DO-214AC) SS54,LC-SMA(DO-214AC)_S1,SS54,供应商链接,http://www.szlcsc.com/product/details_23178.html,SMA(DO-214AC),LC,C22452,*,D?,二极管
+SMA(DO-214AC) US1M,LC-SMA(DO-214AC)_S1,US1M,供应商链接,http://www.szlcsc.com/product/details_5885.html,SMA(DO-214AC),LC,C5441,*,D?,二极管
+SMB/DO-214AA P6SMB6.8CA,LC-SMB(DO-214AA)_S1,P6SMB6.8CA,供应商链接,http://www.szlcsc.com/product/details_79530.html,SMB/DO-214AA,LC,C78395,*,D?,TVS
+SMC(DO-214AB) SS36-E3/57T,LC-SMC(DO-214AB)_S1,SS36-E3/57T,供应商链接,http://www.szlcsc.com/product/details_36698.html,SMC(DO-214AB),LC,C35722,*,D?,二极管
+SOD-123 B5819W  SL,LC-SOD-123,B5819W  SL,供应商链接,http://www.szlcsc.com/product/details_9093.html,SOD-123,LC,C8598,*,D?,肖特基二极管
+SOD-323 1N4148WS T4,LC-SOD-323,1N4148WS T4,供应商链接,http://www.szlcsc.com/product/details_2485.html,SOD-323,LC,C2128,*,D?,二极管
+SOT-23 BAV70 A4,LC-SOT-23(SOT-23-3),BAV70 A4,供应商链接,http://www.szlcsc.com/product/details_70091.html,SOT-23,LC,C68978,*,D?,开关二极管
+SOT-23 BAV99 A7W,LC-SOT-23(SOT-23-3),BAV99 A7W,供应商链接,http://www.szlcsc.com/product/details_2877.html,SOT-23,LC,C2500,*,D?,开关二极管
+6N137S(TA),LC-SMD-8_6.3mm,6N137S(TA),供应商链接,http://www.szlcsc.com/product/details_17178.html,SMD-8_6.3mm,LC,C16496,*,U+?,贴片光耦
+74HC04D,LC-SOIC-14_150mil,74HC04D,供应商链接,http://www.szlcsc.com/product/details_6041.html,SOIC-14_150mil,LC,C5590,*,U+?,74系列逻辑芯片
+74HC08D,LC-SOIC-14_150mil,74HC08D,供应商链接,http://www.szlcsc.com/product/details_6044.html,SOIC-14_150mil,LC,C5593,*,U+?,74系列逻辑芯片
+74HC138D,LC-SOIC-16_150mil,74HC138D,供应商链接,http://www.szlcsc.com/product/details_6053.html,SOIC-16_150mil,LC,C5602,*,U+?,74系列逻辑芯片
+74HC14D,LC-SOIC-14_150mil,74HC14D,供应商链接,http://www.szlcsc.com/product/details_6056.html,SOIC-14_150mil,LC,C5605,*,U+?,74系列逻辑芯片
+74HC164D,LC-SOIC-14_150mil,74HC164D,供应商链接,http://www.szlcsc.com/product/details_7297.html,SOIC-14_150mil,LC,C6825,*,U+?,74系列逻辑芯片
+74HC165D,LC-SOIC-16_150mil,74HC165D,供应商链接,http://www.szlcsc.com/product/details_6064.html,SOIC-16_150mil,LC,C5613,*,U+?,74系列逻辑芯片
+74HC244D,LC-SOIC-20_300mil,74HC244D,供应商链接,http://www.szlcsc.com/product/details_6073.html,SOIC-20_300mil,LC,C5622,*,U+?,74系列逻辑芯片
+74HC245D,LC-SOIC-20_300mil,74HC245D,供应商链接,http://www.szlcsc.com/product/details_6076.html,SOIC-20_300mil,LC,C5625,*,U+?,74系列逻辑芯片
+74HC573D,LC-SOIC-20_300mil,74HC573D,供应商链接,http://www.szlcsc.com/product/details_6059.html,SOIC-20_300mil,LC,C5608,*,U+?,74系列逻辑芯片
+74HC595D,LC-SOIC-16_150mil,74HC595D,供应商链接,http://www.szlcsc.com/product/details_6413.html,SOIC-16_150mil,LC,C5947,*,U+?,74系列逻辑芯片
+ACS712ELCTR-20A-T,LC-SOIC-8_150mil,ACS712ELCTR-20A-T,供应商链接,http://www.szlcsc.com/product/details_11225.html,SOIC-8_150mil,LC,C10681,*,U+?,传感器
+AD620ARZ-REEL,LC-SOIC-8_150mil,AD620ARZ-REEL,供应商链接,http://www.szlcsc.com/product/details_10205.html,SOIC-8_150mil,LC,C9675,*,U+?,仪放
+ADM2483BRWZ,LC-SOIC-16_300mil,ADM2483BRWZ,供应商链接,http://www.szlcsc.com/product/details_10167.html,SOIC-16_300mil,LC,C9637,*,U+?,接口芯片
+ADUM1201ARZ-RL7,LC-SOIC-8_150mil,ADUM1201ARZ-RL7,供应商链接,http://www.szlcsc.com/product/details_10199.html,SOIC-8_150mil,LC,C9669,*,U+?,隔离器
+AM26LS31CDRG4,LC-SOIC-16_150mil,AM26LS31CDRG4,供应商链接,http://www.szlcsc.com/product/details_6645.html,SOIC-16_150mil,LC,C6179,*,U+?,接口芯片
+AM26LS32ACDRG4,LC-SOIC-16_150mil,AM26LS32ACDRG4,供应商链接,http://www.szlcsc.com/product/details_6646.html,SOIC-16_150mil,LC,C6180,*,U+?,接口芯片
+CAN/PCA82C250T/YM,LC-SOIC-8_150mil,CAN/PCA82C250T/YM,供应商链接,http://www.szlcsc.com/product/details_7916.html,SOIC-8_150mil,LC,C7439,*,U+?,CAN
+CAN/SN65HVD230DR,LC-SOIC-8_150mil,CAN/SN65HVD230DR,供应商链接,http://www.szlcsc.com/product/details_12661.html,SOIC-8_150mil,LC,C12084,*,U+?,CAN
+CAN/TJA1040T/CM,LC-SOIC-8_150mil,CAN/TJA1040T/CM,供应商链接,http://www.szlcsc.com/product/details_7423.html,SOIC-8_150mil,LC,C6951,*,U+?,CAN
+CAN/TJA1050T/CM,LC-SOIC-8_150mil,CAN/TJA1050T/CM,供应商链接,http://www.szlcsc.com/product/details_7424.html,SOIC-8_150mil,LC,C6952,*,U+?,CAN
+CAN/TJA1051T/3,LC-SOIC-8_150mil,CAN/TJA1051T/3,供应商链接,http://www.szlcsc.com/product/details_39678.html,SOIC-8_150mil,LC,C38695,*,U+?,CAN
+CC2530F256RHAT,LC-QFN-40_6x6x05P,CC2530F256RHAT,供应商链接,http://www.szlcsc.com/product/details_9643.html,QFN-40_6x6x05P,LC,C9120,*,U+?,无线
+CD4051BM96,LC-SOIC-16_150mil,CD4051BM96,供应商链接,http://www.szlcsc.com/product/details_22096.html,SOIC-16_150mil,LC,C21379,*,U+?,4000系列逻辑芯片
+CD4052BM96,LC-SOIC-16_150mil,CD4052BM96,供应商链接,http://www.szlcsc.com/product/details_6986.html,SOIC-16_150mil,LC,C6521,*,U+?,4000系列逻辑芯片
+CD4053BM96,LC-SOIC-16_150mil,CD4053BM96,供应商链接,http://www.szlcsc.com/product/details_7208.html,SOIC-16_150mil,LC,C6742,*,U+?,4000系列逻辑芯片
+CH340G,LC-SOIC-16_150mil,CH340G,供应商链接,http://www.szlcsc.com/product/details_14927.html,SOIC-16_150mil,LC,C14267,*,U+?,USB
+CH376S,LC-SOIC-28_300mil,CH376S,供应商链接,http://www.szlcsc.com/product/details_14823.html,SOIC-28_300mil,LC,C14166,*,U+?,USB
+CJ431 0.5%431,LC-SOT-23(SOT-23-3),CJ431 0.5%431,供应商链接,http://www.szlcsc.com/product/details_3500.html,SOT-23,LC,C3113,*,U+?,电压基准
+CP2102-GMR,LC-QFN-28_5x5x05P,CP2102-GMR,供应商链接,http://www.szlcsc.com/product/details_7033.html,QFN-28_5x5x05P,LC,C6568,*,U+?,USB
+CP2104-F03-GM,LC-QFN-24_4x4x05P,CP2104-F03-GM,供应商链接,http://www.szlcsc.com/product/details_48747.html,QFN-24_4x4x05P,LC,C47742,*,U+?,USB
+DP83848CVVX,LC-LQFP-48_7x7x05P,DP83848CVVX,供应商链接,http://www.szlcsc.com/product/details_17371.html,LQFP-48_7x7x05P,LC,C16688,*,U+?,接口芯片
+DS1302Z+T&R,LC-SOIC-8_150mil,DS1302Z+T&R,供应商链接,http://www.szlcsc.com/product/details_9478.html,SOIC-8_150mil,LC,C8959,*,U+?,实时时钟
+DS3231M+TRL,LC-SOIC-16_300mil,DS3231M+TRL,供应商链接,http://www.szlcsc.com/product/details_38643.html,SOIC-16_300mil,LC,C37663,*,U+?,实时时钟
+DW01+G,LC-SOT-23-6,DW01+G,供应商链接,http://www.szlcsc.com/product/details_14870.html,SOT-23-6,LC,C14213,*,U+?,电池保护芯片
+EEPROM/AT24C256C-SSHL-T,LC-SOIC-8_150mil,EEPROM/AT24C256C-SSHL-T,供应商链接,http://www.szlcsc.com/product/details_6947.html,SOIC-8_150mil,LC,C6482,*,U+?,EEPROM
+EL357N(B)(TA)-G,LC-SOP-4_P2.54,EL357N(B)(TA)-G,供应商链接,http://www.szlcsc.com/product/details_7114.html,SOP-4_P2.54,LC,C6649,*,U+?,贴片光耦
+FP6291,LC-SOT-23-6,FP6291,供应商链接,http://www.szlcsc.com/product/details_19404.html,SOT-23-6,LC,C18701,*,U+?,DC-DC芯片
+FT232RL-REEL,LC-SSOP-28_208mil,FT232RL-REEL,供应商链接,http://www.szlcsc.com/product/details_9194.html,SSOP-28_208mil,LC,C8690,*,U+?,USB
+HT1621B,LC-LQFP-48_7x7x05P,HT1621B,供应商链接,http://www.szlcsc.com/product/details_8009.html,LQFP-48_7x7x05P,LC,C7532,*,U+?,LCD驱动
+ICL7660AIBAZA-T,LC-SOIC-8_150mil,ICL7660AIBAZA-T,供应商链接,http://www.szlcsc.com/product/details_8358.html,SOIC-8_150mil,LC,C7881,*,U+?,电源芯片
+ISO1050DUBR,LC-SMD-8_6.3mm,ISO1050DUBR,供应商链接,http://www.szlcsc.com/product/details_17110.html,SMD-8_6.3mm,LC,C16428,*,U+?,CAN
+LM2576SX-5.0,LC-TO-263-5,LM2576SX-5.0,供应商链接,http://www.szlcsc.com/product/details_35434.html,TO-263-5,LC,C34465,*,U+?,DC-DC芯片
+LM2596SX-5.0/NOPB,LC-TO-263-5,LM2596SX-5.0/NOPB,供应商链接,http://www.szlcsc.com/product/details_10538.html,TO-263-5,LC,C10002,*,U+?,DC-DC芯片
+LM2904DR2G,LC-SOIC-8_150mil,LM2904DR2G,供应商链接,http://www.szlcsc.com/product/details_18922.html,SOIC-8_150mil,LC,C18229,*,U+?,运放
+LM324DT,LC-SOIC-14_150mil,LM324DT,供应商链接,http://www.szlcsc.com/product/details_72134.html,SOIC-14_150mil,LC,C71035,*,U+?,运放
+LM358DR2G,LC-SOIC-8_150mil,LM358DR2G,供应商链接,http://www.szlcsc.com/product/details_8427.html,SOIC-8,LC,C7950,*,U+?,通用运放
+LM386MX-1/NOPB,LC-SOIC-8_150mil,LM386MX-1/NOPB,供应商链接,http://www.szlcsc.com/product/details_24309.html,SOIC-8_150mil,LC,C23573,*,U+?,功放
+LM393DR2G,LC-SOIC-8_150mil,LM393DR2G,供应商链接,http://www.szlcsc.com/product/details_8432.html,SOIC-8,LC,C7955,*,U+?,电压比较器
+LMV321IDBVRG4,LC-SOT-23-5,LMV321IDBVRG4,供应商链接,http://www.szlcsc.com/product/details_8449.html,SOT-23-5,LC,C7972,*,U+?,运放
+LMV324IDR,LC-SOIC-14_150mil,LMV324IDR,供应商链接,http://www.szlcsc.com/product/details_8451.html,SOIC-14_150mil,LC,C7974,*,U+?,运放
+M24C02-WMN6TP,LC-SOIC-8_150mil,M24C02-WMN6TP,供应商链接,http://www.szlcsc.com/product/details_8039.html,SOIC-8_150mil,LC,C7562,*,U+?,EEPROM
+M24C64-RMN6TP,LC-SOIC-8_150mil,M24C64-RMN6TP,供应商链接,http://www.szlcsc.com/product/details_81133.html,SOIC-8_150mil,LC,C79988,*,U+?,EEPROM
+MAX232ESE,LC-SOIC-16_150mil,MAX232ESE,供应商链接,http://www.szlcsc.com/product/details_27608.html,SOIC-16_150mil,LC,C26860,*,U+?,RS232
+MC33063ADR2G,LC-SOIC-8_150mil,MC33063ADR2G,供应商链接,http://www.szlcsc.com/product/details_7773.html,SOIC-8_150mil,LC,C7296,*,U+?,开关电源
+MC34063ADR2G,LC-SOIC-8_150mil,MC34063ADR2G,供应商链接,http://www.szlcsc.com/product/details_33041.html,SOIC-8,LC,C32078,*,U+?,DC-DC芯片
+MCP2515-I/SO,LC-SOIC-18_300mil,MCP2515-I/SO,供应商链接,http://www.szlcsc.com/product/details_12992.html,SOIC-18_300mil,LC,C12368,*,U+?,CAN
+MCP6002T-I/SN,LC-SOIC-8_150mil,MCP6002T-I/SN,供应商链接,http://www.szlcsc.com/product/details_7854.html,SOIC-8_150mil,LC,C7377,*,U+?,运放
+MP1482DS,LC-SOIC-8_150mil,MP1482DS,供应商链接,http://www.szlcsc.com/product/details_15539.html,SOIC-8_150mil,LC,C14867,*,U+?,电源芯片
+MP1584EN-LF-Z,LC-SOIC-8_EP_150mil,MP1584EN-LF-Z,供应商链接,http://www.szlcsc.com/product/details_15724.html,SOIC-8_EP_150mil,LC,C15051,*,U+?,DC-DC芯片
+MP2303ADN-LF-Z,LC-SOIC-8_EP_150mil,MP2303ADN-LF-Z,供应商链接,http://www.szlcsc.com/product/details_19579.html,SOIC-8_EP_150mil,LC,C18876,*,U+?,DC-DC芯片
+MP2359DJ-LF-Z,LC-SOT-23-6,MP2359DJ-LF-Z,供应商链接,http://www.szlcsc.com/product/details_14917.html,SOT-23-6,LC,C14259,*,U+?,DC-DC芯片
+MP2451DT-LF-Z,LC-SOT-23-6,MP2451DT-LF-Z,供应商链接,http://www.szlcsc.com/product/details_14780.html,SOT-23-6,LC,C14123,*,U+?,DC-DC芯片
+MPU-6050,LC-QFN-24_4x4x05P,MPU-6050,供应商链接,http://www.szlcsc.com/product/details_24852.html,QFN-24_4x4x05P,LC,C24112,*,U+?,传感器
+NE5532DR,LC-SOIC-8_150mil,NE5532DR,供应商链接,http://www.szlcsc.com/product/details_7903.html,SOIC-8_150mil,LC,C7426,*,U+?,功放
+NE555DR,LC-SOIC-8_150mil,NE555DR,供应商链接,http://www.szlcsc.com/product/details_8070.html,SOIC-8_150mil,LC,C7593,*,U+?,时基集成
+NRF24L01P-R,LC-QFN-20_4x4x05P,NRF24L01P-R,供应商链接,http://www.szlcsc.com/product/details_9305.html,QFN-20_4x4x05P,LC,C8791,*,U+?,无线
+OP07CDR,LC-SOIC-8_150mil,OP07CDR,供应商链接,http://www.szlcsc.com/product/details_7910.html,SOIC-8,LC,C7433,*,U+?,精密运放
+"PCF8563T/5,518",LC-SOIC-8_150mil,"PCF8563T/5,518",供应商链接,http://www.szlcsc.com/product/details_7917.html,SOIC-8_150mil,LC,C7440,*,U+?,实时时钟
+PSM712-LF-T7,LC-SOT-23(SOT-23-3),PSM712-LF-T7,供应商链接,http://www.szlcsc.com/product/details_33642.html,SOT-23(SOT-23-3),LC,C32677,*,U+?,TVS
+SMF05CT1G,LC-SC-70-6(SOT-363),SMF05CT1G,供应商链接,http://www.szlcsc.com/product/details_16561.html,SC-70-6(SOT-363),LC,C15879,*,U+?,TVS
+SN74LVC4245APWRG4,LC-TSSOP-24,SN74LVC4245APWRG4,供应商链接,http://www.szlcsc.com/product/details_8336.html,TSSOP-24,LC,C7859,*,U+?,74系列逻辑芯片
+SN75176BDR,LC-SOIC-8_150mil,SN75176BDR,供应商链接,http://www.szlcsc.com/product/details_7535.html,SOIC-8_150mil,LC,C7063,*,U+?,RS-485/RS-422
+SP3232EEY-L/TR,LC-TSSOP-16,SP3232EEY-L/TR,供应商链接,http://www.szlcsc.com/product/details_14131.html,TSSOP-16,LC,C13482,*,U+?,RS232
+SP3485EN-L/TR,LC-SOIC-8_150mil,SP3485EN-L/TR,供应商链接,http://www.szlcsc.com/product/details_9482.html,SOIC-8,LC,C8963,*,U+?,RS-485/RS-422
+SP485EEN-L/TR,LC-SOIC-8_150mil,SP485EEN-L/TR,供应商链接,http://www.szlcsc.com/product/details_7327.html,SOIC-8,LC,C6855,*,U+?,RS-485/RS-422
+SRV05-4-P-T7,LC-SOT-23-6,SRV05-4-P-T7,供应商链接,http://www.szlcsc.com/product/details_86537.html,SOT-23-6,LC,C85364,*,U+?,TVS
+TL072CDT,LC-SOIC-8_150mil,TL072CDT,供应商链接,http://www.szlcsc.com/product/details_7433.html,SOIC-8_150mil,LC,C6961,*,U+?,运放
+TL494CDR,LC-SOIC-16_150mil,TL494CDR,供应商链接,http://www.szlcsc.com/product/details_20591.html,SOIC-16_150mil,LC,C19882,*,U+?,开关电源
+TM1620,LC-SOIC-20_300mil,TM1620,供应商链接,http://www.szlcsc.com/product/details_20288.html,SOIC-20_300mil,LC,C19579,*,U+?,LED驱动
+TM1638,LC-SOIC-28_300mil,TM1638,供应商链接,http://www.szlcsc.com/product/details_19892.html,SOIC-28_300mil,LC,C19187,*,U+?,LED驱动
+TM1640,LC-SOP-28_300mil,TM1640,供应商链接,http://www.szlcsc.com/product/details_42311.html,SOP-28_300mil,LC,C41327,*,U+?,LED驱动
+TP4054,LC-SOT-23-5,TP4054,供应商链接,http://www.szlcsc.com/product/details_33539.html,SOT-23-5,LC,C32574,*,U+?,电池电源管理
+TP4056,LC-SOP-8_EP_150mil,TP4056,供应商链接,http://www.szlcsc.com/product/details_17264.html,SOP-8_EP_150mil,LC,C16581,*,U+?,电池电源管理
+TP4057,LC-SOT-23-6,TP4057,供应商链接,http://www.szlcsc.com/product/details_12599.html,SOT-23-6,LC,C12044,*,U+?,电池电源管理
+TPS5430DDAR,LC-SOP-8_EP_150mil,TPS5430DDAR,供应商链接,http://www.szlcsc.com/product/details_10396.html,SOP-8_EP_150mil,LC,C9864,*,U+?,DC-DC芯片
+TPS54331DR,LC-SOIC-8_150mil,TPS54331DR,供应商链接,http://www.szlcsc.com/product/details_10397.html,SOIC-8_150mil,LC,C9865,*,U+?,DC-DC芯片
+TPS61040DBVRG4,LC-SOT-23-5,TPS61040DBVRG4,供应商链接,http://www.szlcsc.com/product/details_8199.html,SOT-23-5,LC,C7722,*,U+?,DC-DC芯片
+UC3843BD1R2G,LC-SOIC-8_150mil,UC3843BD1R2G,供应商链接,http://www.szlcsc.com/product/details_17096.html,SOIC-8_150mil,LC,C16414,*,U+?,开关电源
+ULN2003AFWG,LC-SOIC-16_150mil,ULN2003AFWG,供应商链接,http://www.szlcsc.com/product/details_5880.html,SOIC-16_150mil,LC,C5437,*,U+?,大电流驱动
+ULN2803ADW,LC-SOIC-18_300mil,ULN2803ADW,供应商链接,http://www.szlcsc.com/product/details_10213.html,SOIC-18_300mil,LC,C9683,*,U+?,大电流驱动
+W25Q128FVSIG,LC-SOIC-8_208mil,W25Q128FVSIG,供应商链接,http://www.szlcsc.com/product/details_36072.html,SOIC-8,LC,C35101,*,U+?,Flash ROM
+W5500,LC-LQFP-48_7x7x05P,W5500,供应商链接,http://www.szlcsc.com/product/details_33808.html,LQFP-48_7x7x05P,LC,C32843,*,U+?,以太网
+XL1509-5.0E1,LC-SOP-8_150mil,XL1509-5.0E1,供应商链接,http://www.szlcsc.com/product/details_62115.html,SOP-8_150mil,LC,C61063,*,U+?,DC-DC芯片
+XL1509-ADJE1,LC-SOP-8_150mil,XL1509-ADJE1,供应商链接,http://www.szlcsc.com/product/details_75311.html,SOP-8_150mil,LC,C74192,*,U+?,DC-DC芯片
+0402 10nH 5%,LC-0402_L,10nH 5%,供应商链接,http://www.szlcsc.com/product/details_27896.html,402,LC,C27147,*,L?,贴片电感
+0402 12nH  5%,LC-0402_L,12nH  5%,供应商链接,http://www.szlcsc.com/product/details_25303.html,402,LC,C24563,*,L?,贴片电感
+0402 15nH 5%,LC-0402_L,15nH 5%,供应商链接,http://www.szlcsc.com/product/details_27892.html,402,LC,C27143,*,L?,贴片电感
+0402 18nH,LC-0402_L,18nH,供应商链接,http://www.szlcsc.com/product/details_25302.html,402,LC,C24562,*,L?,贴片电感
+0402 2.7nH 0.3nH,LC-0402_L,2.7nH 0.3nH,供应商链接,http://www.szlcsc.com/product/details_27872.html,402,LC,C27123,*,L?,贴片电感
+0402 27nH 5%,LC-0402_L,27nH 5%,供应商链接,http://www.szlcsc.com/product/details_19533.html,402,LC,C18830,*,L?,贴片电感
+0402 3.3nH 0.3nH,LC-0402_L,3.3nH 0.3nH,供应商链接,http://www.szlcsc.com/product/details_27873.html,402,LC,C27124,*,L?,贴片电感
+0402 3.9nH 3%,LC-0402_L,3.9nH 3%,供应商链接,http://www.szlcsc.com/product/details_14690.html,402,LC,C14033,*,L?,贴片电感
+0402 39nH,LC-0402_L,39nH,供应商链接,http://www.szlcsc.com/product/details_27187.html,402,LC,C26443,*,L?,贴片电感
+0402 4.7nH 0.3nH,LC-0402_L,4.7nH 0.3nH,供应商链接,http://www.szlcsc.com/product/details_14246.html,402,LC,C13595,*,L?,贴片电感
+0402 6.8nH 5%,LC-0402_L,6.8nH 5%,供应商链接,http://www.szlcsc.com/product/details_33003.html,402,LC,C32041,*,L?,贴片电感
+0402 8.2nH 5%,LC-0402_L,8.2nH 5%,供应商链接,http://www.szlcsc.com/product/details_16890.html,402,LC,C16208,*,L?,贴片电感
+0603 10nH 5%,LC-0603_L,10nH ±5%,供应商链接,http://www.szlcsc.com/product/details_16347.html,603,LC,C15666,*,L?,贴片电感
+0603 10uH 10%,LC-0603_L,10uH ±10%,供应商链接,http://www.szlcsc.com/product/details_1387.html,603,LC,C1035,*,L?,贴片电感
+0603 12nH 5%,LC-0603_L,12nH ±5%,供应商链接,http://www.szlcsc.com/product/details_30010.html,603,LC,C29258,*,L?,贴片电感
+0603 22nH 5%,LC-0603_L,22nH ±5%,供应商链接,http://www.szlcsc.com/product/details_12684.html,603,LC,C12099,*,L?,贴片电感
+0603 27nH 5%,LC-0603_L,27nH ±5%,供应商链接,http://www.szlcsc.com/product/details_12685.html,603,LC,C12100,*,L?,贴片电感
+0603 3.9nH 0.3nH,LC-0603_L,3.9nH ±0.3nH,供应商链接,http://www.szlcsc.com/product/details_14473.html,603,LC,C13818,*,L?,贴片电感
+0603 33nH 5%,LC-0603_L,33nH ±5%,供应商链接,http://www.szlcsc.com/product/details_36021.html,603,LC,C35050,*,L?,贴片电感
+0603 4.7nH 0.3nH,LC-0603_L,4.7nH ±0.3nH,供应商链接,http://www.szlcsc.com/product/details_1382.html,603,LC,C1030,*,L?,贴片电感
+0603 4.7uH 10%,LC-0603_L,4.7uH ±10%,供应商链接,http://www.szlcsc.com/product/details_1386.html,603,LC,C1034,*,L?,贴片电感
+0603 47nH,LC-0603_L,47nH,供应商链接,http://www.szlcsc.com/product/details_30437.html,603,LC,C29683,*,L?,贴片电感
+0603 68nH 5% 0603,LC-0603_L,68nH ±5% 0603,供应商链接,http://www.szlcsc.com/product/details_14064.html,603,LC,C13415,*,L?,贴片电感
+0603 8.2nH 5%,LC-0603_L,8.2nH ±5%,供应商链接,http://www.szlcsc.com/product/details_1384.html,603,LC,C1032,*,L?,贴片电感
+0805 100uH 10%,LC-0805_L,100uH ±10%,供应商链接,http://www.szlcsc.com/product/details_69137.html,805,LC,C68035,*,L?,贴片电感
+0805 100Ω 25% 100MHz,LC-0805_L,100Ω ±25% 100MHz,供应商链接,http://www.szlcsc.com/product/details_1367.html,805,LC,C1015,*,L?,贴片磁珠
+0805 10uH 10%,LC-0805_L,10uH ±10%,供应商链接,http://www.szlcsc.com/product/details_1398.html,805,LC,C1046,*,L?,贴片电感
+0805 1uH 10%,LC-0805_L,1uH ±10%,供应商链接,http://www.szlcsc.com/product/details_1394.html,805,LC,C1042,*,L?,贴片电感
+0805 2.2uH 10%,LC-0805_L,2.2uH ±10%,供应商链接,http://www.szlcsc.com/product/details_1395.html,805,LC,C1043,*,L?,贴片电感
+0805 22uH 10%,LC-0805_L,22uH ±10%,供应商链接,http://www.szlcsc.com/product/details_33340.html,805,LC,C32375,*,L?,贴片电感
+0805 3.3uH10%,LC-0805_L,3.3uH±10%,供应商链接,http://www.szlcsc.com/product/details_52738.html,805,LC,C51725,*,L?,贴片电感
+0805 47uH 10%,LC-0805_L,47uH ±10%,供应商链接,http://www.szlcsc.com/product/details_14964.html,805,LC,C14304,*,L?,贴片电感
+0805 600Ω 25% 100MHz,LC-0805_L,600Ω ±25% 100MHz,供应商链接,http://www.szlcsc.com/product/details_1369.html,805,LC,C1017,*,L?,贴片磁珠
+1206 10uH 10%,LC-1206_L,10uH ±10%,供应商链接,http://www.szlcsc.com/product/details_1403.html,1206,LC,C1051,*,L?,贴片电感
+1206 4.7uH  10%,LC-1206_L,4.7uH  ±10%,供应商链接,http://www.szlcsc.com/product/details_1401.html,1206,LC,C1049,*,L?,贴片电感
+SOT-223 AMS1117-3.3,LC-SOT-223,AMS1117-3.3,供应商链接,http://www.szlcsc.com/product/details_6652.html,SOT-223,LC,C6186,*,VR?,低压差线性稳压(LDO)
+SOT-223 AMS1117-5.0,LC-SOT-223,AMS1117-5.0,供应商链接,http://www.szlcsc.com/product/details_6653.html,SOT-223,LC,C6187,*,VR?,低压差线性稳压(LDO)
+SOT-23 XC6206P332MR,LC-SOT-23(SOT-23-3),XC6206P332MR,供应商链接,http://www.szlcsc.com/product/details_5896.html,SOT-23,LC,C5446,*,VR?,低压差线性稳压(LDO)
+SOT-89 78L05G-AB3-R,LC-SOT-89(SOT-89-3),78L05G-AB3-R,供应商链接,http://www.szlcsc.com/product/details_72235.html,SOT-89,LC,C71136,*,VR?,低压差线性稳压(LDO)
+SOT-89 78L12G-AB3-R,LC-SOT-89(SOT-89-3),78L12G-AB3-R,供应商链接,http://www.szlcsc.com/product/details_76626.html,SOT-89,LC,C75501,*,VR?,低压差线性稳压(LDO)
+SOT-89 HT7533-1,LC-SOT-89(SOT-89-3),HT7533-1,供应商链接,http://www.szlcsc.com/product/details_14949.html,SOT-89,LC,C14289,*,VR?,低压差线性稳压(LDO)
+SOT-89 HT7550-1,LC-SOT-89(SOT-89-3),HT7550-1,供应商链接,http://www.szlcsc.com/product/details_16788.html,SOT-89,LC,C16106,*,VR?,低压差线性稳压(LDO)
+TO-252-2 L78M05ABDT-TR,LC-TO-252-2,L78M05ABDT-TR,供应商链接,http://www.szlcsc.com/product/details_59107.html,TO-252-2,LC,C58069,*,VR?,低压差线性稳压(LDO)
+TO-252-2 LM317AL-TN3-R,LC-TO-252-2,LM317AL-TN3-R,供应商链接,http://www.szlcsc.com/product/details_76635.html,TO-252-2,LC,C75510,*,VR?,低压差线性稳压(LDO)
+0603 白灯,LC-0603_LED_S1,白灯 0603,供应商链接,http://www.szlcsc.com/product/details_2663.html,603,LC,C2290,*,D?,发光二极管
+0603 红灯,LC-0603_LED_S1,红灯 0603,供应商链接,http://www.szlcsc.com/product/details_2659.html,603,LC,C2286,*,D?,发光二极管
+0603 绿灯,LC-0603_LED_S1,绿灯 0603,供应商链接,http://www.szlcsc.com/product/details_73152.html,603,LC,C72043,*,D?,发光二极管
+0603 蓝灯,LC-0603_LED_S1,蓝灯 0603,供应商链接,http://www.szlcsc.com/product/details_73150.html,603,LC,C72041,*,D?,发光二极管
+0603 黄灯,LC-0603_LED_S1,黄灯 0603,供应商链接,http://www.szlcsc.com/product/details_73147.html,603,LC,C72038,*,D?,发光二极管
+0805 白灯,LC-0805_LED_S1,白灯 0805,供应商链接,http://www.szlcsc.com/product/details_35468.html,805,LC,C34499,*,D?,发光二极管
+0805 红灯,LC-0805_LED_S1,红灯 0805,供应商链接,http://www.szlcsc.com/product/details_2668.html,805,LC,C2295,*,D?,发光二极管
+0805 翠绿,LC-0805_LED_S1,翠绿 0805,供应商链接,http://www.szlcsc.com/product/details_2670.html,805,LC,C2297,*,D?,发光二极管
+0805 蓝灯,LC-0805_LED_S1,蓝灯 0805,供应商链接,http://www.szlcsc.com/product/details_2666.html,805,LC,C2293,*,D?,发光二极管
+0805 黄灯,LC-0805_LED_S1,黄灯 0805,供应商链接,http://www.szlcsc.com/product/details_2669.html,805,LC,C2296,*,D?,发光二极管
+MSP430F149IPMRG4,LC-LQFP-64_10x10x05P,MSP430F149IPMRG4,供应商链接,http://www.szlcsc.com/product/details_8068.html,LQFP-64_10x10x05P,LC,C7591,*,U?,MCU
+STC12C5A60S2-35I,LC-LQFP-44_10x10x08P,STC12C5A60S2-35I,供应商链接,http://www.szlcsc.com/product/details_9202.html,LQFP-44_10x10x08P,LC,C8696,*,U?,MCU
+STC15F2K60S2-28I-LQFP44G,LC-LQFP-44_10x10x08P,STC15F2K60S2-28I-LQFP44G,供应商链接,http://www.szlcsc.com/product/details_30740.html,LQFP-44_10x10x08P,LC,C29985,*,U?,MCU
+STC89C52RC-40I,LC-LQFP-44_10x10x08P,STC89C52RC-40I,供应商链接,http://www.szlcsc.com/product/details_9213.html,LQFP-44_10x10x08P,LC,C8707,*,U?,MCU
+STM32F030C8T6,LC-LQFP-48_7x7x05P,STM32F030C8T6,供应商链接,http://www.szlcsc.com/product/details_24662.html,LQFP-48_7x7x05P,LC,C23922,*,U?,ARM
+STM32F030F4P6,LC-TSSOP-20,STM32F030F4P6,供应商链接,http://www.szlcsc.com/product/details_33873.html,TSSOP-20,LC,C32908,*,U?,ARM
+STM32F103C8T6,LC-LQFP-48_7x7x05P,STM32F103C8T6,供应商链接,http://www.szlcsc.com/product/details_9243.html,LQFP-48_7x7x05P,LC,C8734,*,U?,ARM
+STM32F103CBT6,LC-LQFP-48_7x7x05P,STM32F103CBT6,供应商链接,http://www.szlcsc.com/product/details_8796.html,LQFP-48_7x7x05P,LC,C8304,*,U?,ARM
+STM32F103R8T6,LC-LQFP-64_10x10x05P,STM32F103R8T6,供应商链接,http://www.szlcsc.com/product/details_47037.html,LQFP-64_10x10x05P,LC,C46034,*,U?,ARM
+STM32F103RBT6,LC-LQFP-64_10x10x05P,STM32F103RBT6,供应商链接,http://www.szlcsc.com/product/details_9244.html,LQFP-64_10x10x05P,LC,C8735,*,U?,ARM
+STM32F103RCT6,LC-LQFP-64_10x10x05P,STM32F103RCT6,供应商链接,http://www.szlcsc.com/product/details_8815.html,LQFP-64_10x10x05P,LC,C8323,*,U?,ARM
+STM32F103RET6,LC-LQFP-64_10x10x05P,STM32F103RET6,供应商链接,http://www.szlcsc.com/product/details_8814.html,LQFP-64_10x10x05P,LC,C8322,*,U?,ARM
+STM32F103VBT6,LC-LQFP-100_14x14x05P,STM32F103VBT6,供应商链接,http://www.szlcsc.com/product/details_8806.html,LQFP-100_14x14x05P,LC,C8314,*,U?,ARM
+STM32F103VCT6,LC-LQFP-100_14x14x05P,STM32F103VCT6,供应商链接,http://www.szlcsc.com/product/details_8805.html,LQFP-100_14x14x05P,LC,C8313,*,U?,ARM
+STM32F103VET6,LC-LQFP-100_14x14x05P,STM32F103VET6,供应商链接,http://www.szlcsc.com/product/details_8800.html,LQFP-100_14x14x05P,LC,C8308,*,U?,ARM
+STM32F103ZET6,LC-LQFP-144_20x20x05P,STM32F103ZET6,供应商链接,http://www.szlcsc.com/product/details_8779.html,LQFP-144_20x20x05P,LC,C8287,*,U?,ARM
+STM32F107VCT6,LC-LQFP-100_14x14x05P,STM32F107VCT6,供应商链接,http://www.szlcsc.com/product/details_8807.html,LQFP-100_14x14x05P,LC,C8315,*,U?,ARM
+STM32F405RGT6,LC-LQFP-64_10x10x05P,STM32F405RGT6,供应商链接,http://www.szlcsc.com/product/details_16424.html,LQFP-64_10x10x05P,LC,C15742,*,U?,ARM
+STM32F407VET6,LC-LQFP-100_14x14x05P,STM32F407VET6,供应商链接,http://www.szlcsc.com/product/details_29482.html,LQFP-100_14x14x05P,LC,C28730,*,U?,ARM
+STM32F407VGT6,LC-LQFP-100_14x14x05P,STM32F407VGT6,供应商链接,http://www.szlcsc.com/product/details_12968.html,LQFP-100_14x14x05P,LC,C12345,,U?,ARM
+STM32F429ZGT6,LC-LQFP-144_20x20x05P,STM32F429ZGT6,供应商链接,http://www.szlcsc.com/product/details_47529.html,LQFP-144_20x20x05P,LC,C46525,*,U?,ARM
+STM32L151C8T6,LC-LQFP-48_7x7x05P,STM32L151C8T6,供应商链接,http://www.szlcsc.com/product/details_10393.html,LQFP-48_7x7x05P,LC,C9861,*,U?,ARM
+STM8L051F3P6TR,LC-TSSOP-20,STM8L051F3P6TR,供应商链接,http://www.szlcsc.com/product/details_18776.html,TSSOP-20,LC,C18088,*,U?,MCU
+STM8L101F3P6,LC-TSSOP-20,STM8L101F3P6,供应商链接,http://www.szlcsc.com/product/details_30799.html,TSSOP-20,LC,C30044,*,U?,MCU
+STM8L152R8T6,LC-LQFP-64_10x10x05P,STM8L152R8T6,供应商链接,http://www.szlcsc.com/product/details_34065.html,LQFP-64_10x10x05P,LC,C33100,*,U?,MCU
+STM8S003F3P6,LC-TSSOP-20,STM8S003F3P6,供应商链接,http://www.szlcsc.com/product/details_19317.html,TSSOP-20,LC,C18615,*,U?,MCU
+STM8S103F3P6,LC-TSSOP-20,STM8S103F3P6,供应商链接,http://www.szlcsc.com/product/details_56989.html,TSSOP-20,LC,C55961,*,U?,MCU
+STM8S105C6T6,LC-LQFP-48_7x7x05P,STM8S105C6T6,供应商链接,http://www.szlcsc.com/product/details_8745.html,LQFP-48_7x7x05P,LC,C8253,*,U?,MCU
+STM8S105K6T6C,LC-LQFP-32_7x7x08P,STM8S105K6T6C,供应商链接,http://www.szlcsc.com/product/details_8746.html,LQFP-32_7x7x08P,LC,C8254,*,U?,MCU
+STM8S207R8T6,LC-LQFP-64_10x10x05P,STM8S207R8T6,供应商链接,http://www.szlcsc.com/product/details_8748.html,LQFP-64_10x10x05P,LC,C8256,*,U?,MCU
+2N7002 7002,LC-SOT-23(SOT-23-3),2N7002 7002,供应商链接,http://www.szlcsc.com/product/details_9040.html,SOT-23(SOT-23-3),LC,C8545,*,Q?,MOS(场效应管)
+AO3400A N道沟 X0YV1T SOT-23,LC-SOT-23(SOT-23-3),AO3400A N道沟 X0YV1T SOT-23,供应商链接,http://www.szlcsc.com/product/details_21629.html,SOT-23,LC,C20917,*,Q?,MOS(场效应管)
+AO3401A P道沟 X13A15 SOT-23,LC-SOT-23(SOT-23-3),AO3401A P道沟 X13A15 SOT-23,供应商链接,http://www.szlcsc.com/product/details_15801.html,SOT-23,LC,C15127,*,Q?,MOS(场效应管)
+AO4407A,LC-SOIC-8_150mil,AO4407A,供应商链接,http://www.szlcsc.com/product/details_16754.html,SOIC-8_150mil,LC,C16072,*,Q?,MOS(场效应管)
+APM4953KC-TRG,LC-SOP-8_150mil,APM4953KC-TRG,供应商链接,http://www.szlcsc.com/product/details_21609.html,SOP-8_150mil,LC,C20897,*,Q?,MOS(场效应管)
+BSS84LT1G,LC-SOT-23(SOT-23-3),BSS84LT1G,供应商链接,http://www.szlcsc.com/product/details_8986.html,SOT-23(SOT-23-3),LC,C8492,*,Q?,MOS(场效应管)
+FS8205,LC-SOT-23-6,FS8205,供应商链接,http://www.szlcsc.com/product/details_33217.html,SOT-23-6,LC,C32254,*,Q?,MOS(场效应管)
+FS8205A,LC-TSSOP-8_3x4.4x065P,FS8205A,供应商链接,http://www.szlcsc.com/product/details_16734.html,TSSOP-8_3x4.4x065P,LC,C16052,*,Q?,MOS(场效应管)
+SI2301CDS-T1-GE3,LC-SOT-23(SOT-23-3),SI2301CDS-T1-GE3,供应商链接,http://www.szlcsc.com/product/details_11030.html,SOT-23(SOT-23-3),LC,C10487,*,Q?,MOS(场效应管)
+0402 0Ω (0R0) 1%,LC-0402_R,0Ω (0R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_17853.html,402,LC,C17168,*,R?,贴片电阻
+0402 1.2KΩ (1201) 1%,LC-0402_R,1.2KΩ (1201) ±1%,供应商链接,http://www.szlcsc.com/product/details_26605.html,402,LC,C25862,*,R?,贴片电阻
+0402 1.5KΩ (1501) 1%,LC-0402_R,1.5KΩ (1501) ±1%,供应商链接,http://www.szlcsc.com/product/details_26610.html,402,LC,C25867,*,R?,贴片电阻
+0402 100KΩ (1003) 1%,LC-0402_R,100KΩ (1003) ±1%,供应商链接,http://www.szlcsc.com/product/details_26484.html,402,LC,C25741,*,R?,贴片电阻
+0402 100Ω (1000) 1%,LC-0402_R,100Ω (1000) ±1%,供应商链接,http://www.szlcsc.com/product/details_25819.html,402,LC,C25076,*,R?,贴片电阻
+0402 10KΩ (1002) 1%,LC-0402_R,10KΩ (1002) ±1%,供应商链接,http://www.szlcsc.com/product/details_26487.html,402,LC,C25744,*,R?,贴片电阻
+0402 10MΩ (1005) 1%,LC-0402_R,10MΩ (1005) ±1%,供应商链接,http://www.szlcsc.com/product/details_26825.html,402,LC,C26082,*,R?,贴片电阻
+0402 10Ω (10R0) 1%,LC-0402_R,10Ω (10R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_25820.html,402,LC,C25077,*,R?,贴片电阻
+0402 120KΩ (1203) 1%,LC-0402_R,120KΩ (1203) ±1%,供应商链接,http://www.szlcsc.com/product/details_26493.html,402,LC,C25750,*,R?,贴片电阻
+0402 120Ω (1200) 1%,LC-0402_R,120Ω (1200) ±1%,供应商链接,http://www.szlcsc.com/product/details_25822.html,402,LC,C25079,*,R?,贴片电阻
+0402 12KΩ (1202) 1%,LC-0402_R,12KΩ (1202) ±1%,供应商链接,http://www.szlcsc.com/product/details_26495.html,402,LC,C25752,*,R?,贴片电阻
+0402 150KΩ (1503) 1%,LC-0402_R,150KΩ (1503) ±1%,供应商链接,http://www.szlcsc.com/product/details_26498.html,402,LC,C25755,*,R?,贴片电阻
+0402 150Ω (1500) 1%,LC-0402_R,150Ω (1500) ±1%,供应商链接,http://www.szlcsc.com/product/details_25825.html,402,LC,C25082,*,R?,贴片电阻
+0402 15KΩ (1502) 1%,LC-0402_R,15KΩ (1502) ±1%,供应商链接,http://www.szlcsc.com/product/details_26499.html,402,LC,C25756,*,R?,贴片电阻
+0402 18KΩ (1802) 1%,LC-0402_R,18KΩ (1802) ±1%,供应商链接,http://www.szlcsc.com/product/details_26505.html,402,LC,C25762,*,R?,贴片电阻
+0402 1KΩ (1001) 1%,LC-0402_R,1KΩ (1001) ±1%,供应商链接,http://www.szlcsc.com/product/details_12256.html,402,LC,C11702,*,R?,贴片电阻
+0402 1MΩ (1004) 1%,LC-0402_R,1MΩ (1004) ±1%,供应商链接,http://www.szlcsc.com/product/details_26826.html,402,LC,C26083,*,R?,贴片电阻
+0402 1Ω (1R00) 1%,LC-0402_R,1Ω (1R00) ±1%,供应商链接,http://www.szlcsc.com/product/details_25829.html,402,LC,C25086,*,R?,贴片电阻
+0402 2.2KΩ (2201) 1%,LC-0402_R,2.2KΩ (2201) ±1%,供应商链接,http://www.szlcsc.com/product/details_26622.html,402,LC,C25879,*,R?,贴片电阻
+0402 2.4KΩ (2401) 1%,LC-0402_R,2.4KΩ (2401) ±1%,供应商链接,http://www.szlcsc.com/product/details_26625.html,402,LC,C25882,*,R?,贴片电阻
+0402 200KΩ (2003) 1%,LC-0402_R,200KΩ (2003) ±1%,供应商链接,http://www.szlcsc.com/product/details_26507.html,402,LC,C25764,*,R?,贴片电阻
+0402 200Ω (2000) 1%,LC-0402_R,200Ω (2000) ±1%,供应商链接,http://www.szlcsc.com/product/details_25830.html,402,LC,C25087,*,R?,贴片电阻
+0402 20KΩ (2002) 1%,LC-0402_R,20KΩ (2002) ±1%,供应商链接,http://www.szlcsc.com/product/details_26508.html,402,LC,C25765,*,R?,贴片电阻
+0402 220KΩ (2203) 1%,LC-0402_R,220KΩ (2203) ±1%,供应商链接,http://www.szlcsc.com/product/details_26510.html,402,LC,C25767,*,R?,贴片电阻
+0402 220Ω (2200) 1%,LC-0402_R,220Ω (2200) ±1%,供应商链接,http://www.szlcsc.com/product/details_25834.html,402,LC,C25091,*,R?,贴片电阻
+0402 22KΩ (2202) 1%,LC-0402_R,22KΩ (2202) ±1%,供应商链接,http://www.szlcsc.com/product/details_26511.html,402,LC,C25768,*,R?,贴片电阻
+0402 22Ω (22R0) 1%,LC-0402_R,22Ω (22R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_25835.html,402,LC,C25092,*,R?,贴片电阻
+0402 24KΩ (2402) 1%,LC-0402_R,24KΩ (2402) ±1%,供应商链接,http://www.szlcsc.com/product/details_26512.html,402,LC,C25769,*,R?,贴片电阻
+0402 27KΩ (2702) 1%,LC-0402_R,27KΩ (2702) ±1%,供应商链接,http://www.szlcsc.com/product/details_26514.html,402,LC,C25771,*,R?,贴片电阻
+0402 2KΩ (2001) 1%,LC-0402_R,2KΩ (2001) ±1%,供应商链接,http://www.szlcsc.com/product/details_4516.html,402,LC,C4109,*,R?,贴片电阻
+0402 3.3KΩ (3301) 1%,LC-0402_R,3.3KΩ (3301) ±1%,供应商链接,http://www.szlcsc.com/product/details_26633.html,402,LC,C25890,*,R?,贴片电阻
+0402 3.9KΩ(3901) 1%,LC-0402_R,3.9KΩ(3901) ±1%,供应商链接,http://www.szlcsc.com/product/details_52734.html,402,LC,C51721,*,R?,贴片电阻
+0402 300KΩ (3003) 1%,LC-0402_R,300KΩ (3003) ±1%,供应商链接,http://www.szlcsc.com/product/details_26517.html,402,LC,C25774,*,R?,贴片电阻
+0402 300Ω (3000) 1%,LC-0402_R,300Ω (3000) ±1%,供应商链接,http://www.szlcsc.com/product/details_25845.html,402,LC,C25102,*,R?,贴片电阻
+0402 330KΩ (3303) 1%,LC-0402_R,330KΩ (3303) ±1%,供应商链接,http://www.szlcsc.com/product/details_26521.html,402,LC,C25778,*,R?,贴片电阻
+0402 330Ω (3300) 1%,LC-0402_R,330Ω (3300) ±1%,供应商链接,http://www.szlcsc.com/product/details_25847.html,402,LC,C25104,*,R?,贴片电阻
+0402 33KΩ (3302) 1%,LC-0402_R,33KΩ (3302) ±1%,供应商链接,http://www.szlcsc.com/product/details_26522.html,402,LC,C25779,*,R?,贴片电阻
+0402 33Ω (33R0) 1%,LC-0402_R,33Ω (33R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_25848.html,402,LC,C25105,*,R?,贴片电阻
+0402 39KΩ (3902) 1%,LC-0402_R,39KΩ (3902) ±1%,供应商链接,http://www.szlcsc.com/product/details_26526.html,402,LC,C25783,*,R?,贴片电阻
+0402 4.7KΩ (4701) 1%,LC-0402_R,4.7KΩ (4701) ±1%,供应商链接,http://www.szlcsc.com/product/details_26643.html,402,LC,C25900,*,R?,贴片电阻
+0402 470KΩ (4703) 1%,LC-0402_R,470KΩ (4703) ±1%,供应商链接,http://www.szlcsc.com/product/details_26533.html,402,LC,C25790,*,R?,贴片电阻
+0402 470Ω (4700) 1%,LC-0402_R,470Ω (4700) ±1%,供应商链接,http://www.szlcsc.com/product/details_25860.html,402,LC,C25117,*,R?,贴片电阻
+0402 47KΩ (4702) 1%,LC-0402_R,47KΩ (4702) ±1%,供应商链接,http://www.szlcsc.com/product/details_26535.html,402,LC,C25792,*,R?,贴片电阻
+0402 47Ω (47R0) 1%,LC-0402_R,47Ω (47R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_25861.html,402,LC,C25118,*,R?,贴片电阻
+0402 49.9KΩ (4992) 1%,LC-0402_R,49.9KΩ (4992) ±1%,供应商链接,http://www.szlcsc.com/product/details_26640.html,402,LC,C25897,*,R?,贴片电阻
+0402 49.9Ω (49R9) 1%,LC-0402_R,49.9Ω (49R9) ±1%,供应商链接,http://www.szlcsc.com/product/details_25863.html,402,LC,C25120,*,R?,贴片电阻
+0402 5.1KΩ (5101) 1%,LC-0402_R,5.1KΩ (5101) ±1%,供应商链接,http://www.szlcsc.com/product/details_26648.html,402,LC,C25905,*,R?,贴片电阻
+0402 5.6KΩ (5601) 1%,LC-0402_R,5.6KΩ (5601) ±1%,供应商链接,http://www.szlcsc.com/product/details_26651.html,402,LC,C25908,*,R?,贴片电阻
+0402 510KΩ (5103) 1%,LC-0402_R,510KΩ (5103) ±1%,供应商链接,http://www.szlcsc.com/product/details_12170.html,402,LC,C11616,*,R?,贴片电阻
+0402 510Ω (5100) 1%,LC-0402_R,510Ω (5100) ±1%,供应商链接,http://www.szlcsc.com/product/details_25866.html,402,LC,C25123,*,R?,贴片电阻
+0402 51KΩ (5102) 1%,LC-0402_R,51KΩ (5102) ±1%,供应商链接,http://www.szlcsc.com/product/details_26537.html,402,LC,C25794,*,R?,贴片电阻
+0402 51Ω (51R0) 1%,LC-0402_R,51Ω (51R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_25868.html,402,LC,C25125,*,R?,贴片电阻
+0402 56KΩ (5602) 1%,LC-0402_R,56KΩ (5602) ±1%,供应商链接,http://www.szlcsc.com/product/details_26539.html,402,LC,C25796,*,R?,贴片电阻
+0402 6.8KΩ (6801) 1%,LC-0402_R,6.8KΩ (6801) ±1%,供应商链接,http://www.szlcsc.com/product/details_26660.html,402,LC,C25917,*,R?,贴片电阻
+0402 680Ω (6800) 1%,LC-0402_R,680Ω (6800) ±1%,供应商链接,http://www.szlcsc.com/product/details_25873.html,402,LC,C25130,*,R?,贴片电阻
+0402 68KΩ (6802) 1%,LC-0402_R,68KΩ (6802) ±1%,供应商链接,http://www.szlcsc.com/product/details_37849.html,402,LC,C36871,*,R?,贴片电阻
+0402 7.5KΩ (7501) 1%,LC-0402_R,7.5KΩ (7501) ±1%,供应商链接,http://www.szlcsc.com/product/details_26661.html,402,LC,C25918,*,R?,贴片电阻
+0402 75KΩ (7502) 1%,LC-0402_R,75KΩ (7502) ±1%,供应商链接,http://www.szlcsc.com/product/details_26541.html,402,LC,C25798,*,R?,贴片电阻
+0402 75Ω (75R0) 1%,LC-0402_R,75Ω (75R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_25876.html,402,LC,C25133,*,R?,贴片电阻
+0402 8.2KΩ (8201) 1%,LC-0402_R,8.2KΩ (8201) ±1%,供应商链接,http://www.szlcsc.com/product/details_26667.html,402,LC,C25924,*,R?,贴片电阻
+0402*4 10KΩ (103) 5%,LC-0402_Rx4,10KΩ (103) ±5%,供应商链接,http://www.szlcsc.com/product/details_26468.html,0402*4,LC,C25725,*,R?,贴片排阻
+0402*4 1KΩ (102) 5%,LC-0402_Rx4,1KΩ (102) ±5%,供应商链接,http://www.szlcsc.com/product/details_26469.html,0402*4,LC,C25726,*,R?,贴片排阻
+0402*4 33Ω (330) 5%,LC-0402_Rx4,33Ω (330) ±5%,供应商链接,http://www.szlcsc.com/product/details_26244.html,0402*4,LC,C25501,*,R?,贴片排阻
+0603 0Ω (0R0) 1%,LC-0603_R,0Ω (0R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_21903.html,603,LC,C21189,*,R?,贴片电阻
+0603 1.1KΩ (1101) 1%,LC-0603_R,1.1KΩ (1101) ±1%,供应商链接,http://www.szlcsc.com/product/details_23491.html,603,LC,C22764,*,R?,贴片电阻
+0603 1.2KΩ (1201) 1%,LC-0603_R,1.2KΩ (1201) ±1%,供应商链接,http://www.szlcsc.com/product/details_23492.html,603,LC,C22765,*,R?,贴片电阻
+0603 1.2MΩ (1204) 1%,LC-0603_R,1.2MΩ (1204) ±1%,供应商链接,http://www.szlcsc.com/product/details_23493.html,603,LC,C22766,*,R?,贴片电阻
+0603 1.5KΩ (1501) 1%,LC-0603_R,1.5KΩ (1501) ±1%,供应商链接,http://www.szlcsc.com/product/details_23570.html,603,LC,C22843,*,R?,贴片电阻
+0603 1.5MΩ (1504) 1%,LC-0603_R,1.5MΩ (1504) ±1%,供应商链接,http://www.szlcsc.com/product/details_4579.html,603,LC,C4172,*,R?,贴片电阻
+0603 1.8KΩ (1801) 1%,LC-0603_R,1.8KΩ (1801) ±1%,供应商链接,http://www.szlcsc.com/product/details_4584.html,603,LC,C4177,*,R?,贴片电阻
+0603 1.8MΩ (1804) 1%,LC-0603_R,1.8MΩ (1804) ±1%,供应商链接,http://www.szlcsc.com/product/details_23579.html,603,LC,C22852,*,R?,贴片电阻
+0603 100KΩ (1003) 1%,LC-0603_R,100KΩ (1003) ±1%,供应商链接,http://www.szlcsc.com/product/details_26546.html,603,LC,C25803,*,R?,贴片电阻
+0603 100Ω (1000) 1%,LC-0603_R,100Ω (1000) ±1%,供应商链接,http://www.szlcsc.com/product/details_23502.html,603,LC,C22775,*,R?,贴片电阻
+0603 10KΩ (1002) 1%,LC-0603_R,10KΩ (1002) ±1%,供应商链接,http://www.szlcsc.com/product/details_26547.html,603,LC,C25804,*,R?,贴片电阻
+0603 10MΩ (1005) 1%,LC-0603_R,10MΩ (1005) ±1%,供应商链接,http://www.szlcsc.com/product/details_7726.html,603,LC,C7250,*,R?,贴片电阻
+0603 10Ω (10R0) 1%,LC-0603_R,10Ω (10R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_23586.html,603,LC,C22859,*,R?,贴片电阻
+0603 110KΩ (1103) 1%,LC-0603_R,110KΩ (1103) ±1%,供应商链接,http://www.szlcsc.com/product/details_26548.html,603,LC,C25805,*,R?,贴片电阻
+0603 110Ω (1100) 1%,LC-0603_R,110Ω (1100) ±1%,供应商链接,http://www.szlcsc.com/product/details_23508.html,603,LC,C22781,*,R?,贴片电阻
+0603 11KΩ (1102) 1%,LC-0603_R,11KΩ (1102) ±1%,供应商链接,http://www.szlcsc.com/product/details_26693.html,603,LC,C25950,*,R?,贴片电阻
+0603 120KΩ (1203) 1%,LC-0603_R,120KΩ (1203) ±1%,供应商链接,http://www.szlcsc.com/product/details_26551.html,603,LC,C25808,*,R?,贴片电阻
+0603 120Ω (1200) 1%,LC-0603_R,120Ω (1200) ±1%,供应商链接,http://www.szlcsc.com/product/details_23514.html,603,LC,C22787,*,R?,贴片电阻
+0603 12KΩ (1202) 1%,LC-0603_R,12KΩ (1202) ±1%,供应商链接,http://www.szlcsc.com/product/details_23517.html,603,LC,C22790,*,R?,贴片电阻
+0603 130KΩ (1303) 1%,LC-0603_R,130KΩ (1303) ±1%,供应商链接,http://www.szlcsc.com/product/details_23522.html,603,LC,C22795,*,R?,贴片电阻
+0603 130Ω (1300) 1%,LC-0603_R,130Ω (1300) ±1%,供应商链接,http://www.szlcsc.com/product/details_23523.html,603,LC,C22796,*,R?,贴片电阻
+0603 13KΩ (1302) 1%,LC-0603_R,13KΩ (1302) ±1%,供应商链接,http://www.szlcsc.com/product/details_23524.html,603,LC,C22797,*,R?,贴片电阻
+0603 150KΩ (1503) 1%,LC-0603_R,150KΩ (1503) ±1%,供应商链接,http://www.szlcsc.com/product/details_23534.html,603,LC,C22807,*,R?,贴片电阻
+0603 150Ω (1500) 1%,LC-0603_R,150Ω (1500) ±1%,供应商链接,http://www.szlcsc.com/product/details_23535.html,603,LC,C22808,*,R?,贴片电阻
+0603 15KΩ (1502) 1%,LC-0603_R,15KΩ (1502) ±1%,供应商链接,http://www.szlcsc.com/product/details_23536.html,603,LC,C22809,*,R?,贴片电阻
+0603 15Ω (15R0) 1%,LC-0603_R,15Ω (15R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_23537.html,603,LC,C22810,*,R?,贴片电阻
+0603 160KΩ (1603) 1%,LC-0603_R,160KΩ (1603) ±1%,供应商链接,http://www.szlcsc.com/product/details_23540.html,603,LC,C22813,*,R?,贴片电阻
+0603 160Ω (1600) 1%,LC-0603_R,160Ω (1600) ±1%,供应商链接,http://www.szlcsc.com/product/details_23541.html,603,LC,C22814,*,R?,贴片电阻
+0603 16KΩ (1602) 1%,LC-0603_R,16KΩ (1602) ±1%,供应商链接,http://www.szlcsc.com/product/details_23545.html,603,LC,C22818,*,R?,贴片电阻
+0603 180KΩ (1803) 1%,LC-0603_R,180KΩ (1803) ±1%,供应商链接,http://www.szlcsc.com/product/details_23554.html,603,LC,C22827,*,R?,贴片电阻
+0603 180Ω (1800) 1%,LC-0603_R,180Ω (1800) ±1%,供应商链接,http://www.szlcsc.com/product/details_23555.html,603,LC,C22828,*,R?,贴片电阻
+0603 18KΩ (1802) 1%,LC-0603_R,18KΩ (1802) ±1%,供应商链接,http://www.szlcsc.com/product/details_26553.html,603,LC,C25810,*,R?,贴片电阻
+0603 1KΩ (1001) 1%,LC-0603_R,1KΩ (1001) ±1%,供应商链接,http://www.szlcsc.com/product/details_21904.html,603,LC,C21190,*,R?,贴片电阻
+0603 1MΩ (1004) 1%,LC-0603_R,1MΩ (1004) ±1%,供应商链接,http://www.szlcsc.com/product/details_23662.html,603,LC,C22935,*,R?,贴片电阻
+0603 1Ω (1R00) 1%,LC-0603_R,1Ω (1R00) ±1%,供应商链接,http://www.szlcsc.com/product/details_23663.html,603,LC,C22936,*,R?,贴片电阻
+0603 2.2KΩ (2201) 1%,LC-0603_R,2.2KΩ (2201) ±1%,供应商链接,http://www.szlcsc.com/product/details_4597.html,603,LC,C4190,*,R?,贴片电阻
+0603 2.2MΩ (2204) 1%,LC-0603_R,2.2MΩ (2204) ±1%,供应商链接,http://www.szlcsc.com/product/details_23665.html,603,LC,C22938,*,R?,贴片电阻
+0603 2.2Ω (2R20) 1%,LC-0603_R,2.2Ω (2R20) ±1%,供应商链接,http://www.szlcsc.com/product/details_23666.html,603,LC,C22939,*,R?,贴片电阻
+0603 2.4KΩ (2401) 1%,LC-0603_R,2.4KΩ (2401) ±1%,供应商链接,http://www.szlcsc.com/product/details_23667.html,603,LC,C22940,*,R?,贴片电阻
+0603 2.7KΩ (2701) 1%,LC-0603_R,2.7KΩ (2701) ±1%,供应商链接,http://www.szlcsc.com/product/details_13814.html,603,LC,C13167,*,R?,贴片电阻
+0603 200KΩ (2003) 1%,LC-0603_R,200KΩ (2003) ±1%,供应商链接,http://www.szlcsc.com/product/details_26554.html,603,LC,C25811,*,R?,贴片电阻
+0603 200Ω (2000) 1%,LC-0603_R,200Ω (2000) ±1%,供应商链接,http://www.szlcsc.com/product/details_8708.html,603,LC,C8218,*,R?,贴片电阻
+0603 20KΩ (2002) 1%,LC-0603_R,20KΩ (2002) ±1%,供应商链接,http://www.szlcsc.com/product/details_4591.html,603,LC,C4184,*,R?,贴片电阻
+0603 20Ω (20R0) 1%,LC-0603_R,20Ω (20R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_23677.html,603,LC,C22950,*,R?,贴片电阻
+0603 220KΩ (2203) 1%,LC-0603_R,220KΩ (2203) ±1%,供应商链接,http://www.szlcsc.com/product/details_23688.html,603,LC,C22961,*,R?,贴片电阻
+0603 220Ω (2200) 1%,LC-0603_R,220Ω (2200) ±1%,供应商链接,http://www.szlcsc.com/product/details_23689.html,603,LC,C22962,*,R?,贴片电阻
+0603 22KΩ (2202) 1%,LC-0603_R,22KΩ (2202) ±1%,供应商链接,http://www.szlcsc.com/product/details_32812.html,603,LC,C31850,*,R?,贴片电阻
+0603 22Ω (22R0) 1%,LC-0603_R,22Ω (22R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_24078.html,603,LC,C23345,*,R?,贴片电阻
+0603 240KΩ (2403) 1%,LC-0603_R,240KΩ (2403) ±1%,供应商链接,http://www.szlcsc.com/product/details_4604.html,603,LC,C4197,*,R?,贴片电阻
+0603 240Ω (2400) 1%,LC-0603_R,240Ω (2400) ±1%,供应商链接,http://www.szlcsc.com/product/details_24083.html,603,LC,C23350,*,R?,贴片电阻
+0603 24KΩ (2402) 1%,LC-0603_R,24KΩ (2402) ±1%,供应商链接,http://www.szlcsc.com/product/details_24085.html,603,LC,C23352,*,R?,贴片电阻
+0603 24Ω (24R0) 1%,LC-0603_R,24Ω (24R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_4605.html,603,LC,C4198,*,R?,贴片电阻
+0603 270KΩ (2703) 1%,LC-0603_R,270KΩ (2703) ±1%,供应商链接,http://www.szlcsc.com/product/details_23692.html,603,LC,C22965,*,R?,贴片电阻
+0603 270Ω (2700) 1%,LC-0603_R,270Ω (2700) ±1%,供应商链接,http://www.szlcsc.com/product/details_23693.html,603,LC,C22966,*,R?,贴片电阻
+0603 27KΩ (2702) 1%,LC-0603_R,27KΩ (2702) ±1%,供应商链接,http://www.szlcsc.com/product/details_23694.html,603,LC,C22967,*,R?,贴片电阻
+0603 27Ω (27R0) 1%,LC-0603_R,27Ω (27R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_25933.html,603,LC,C25190,*,R?,贴片电阻
+0603 2KΩ (2001) 1%,LC-0603_R,2KΩ (2001) ±1%,供应商链接,http://www.szlcsc.com/product/details_23702.html,603,LC,C22975,*,R?,贴片电阻
+0603 2MΩ (2004) 1%,LC-0603_R,2MΩ (2004) ±1%,供应商链接,http://www.szlcsc.com/product/details_23703.html,603,LC,C22976,*,R?,贴片电阻
+0603 2Ω (2R00) 1%,LC-0603_R,2Ω (2R00) ±1%,供应商链接,http://www.szlcsc.com/product/details_23704.html,603,LC,C22977,*,R?,贴片电阻
+0603 3.3KΩ (3301) 1%,LC-0603_R,3.3KΩ (3301) ±1%,供应商链接,http://www.szlcsc.com/product/details_23705.html,603,LC,C22978,*,R?,贴片电阻
+0603 3.6KΩ (3601) 1%,LC-0603_R,3.6KΩ (3601) ±1%,供应商链接,http://www.szlcsc.com/product/details_23707.html,603,LC,C22980,*,R?,贴片电阻
+0603 3.9KΩ (3901) 1%,LC-0603_R,3.9KΩ (3901) ±1%,供应商链接,http://www.szlcsc.com/product/details_23745.html,603,LC,C23018,*,R?,贴片电阻
+0603 300KΩ (3003) 1%,LC-0603_R,300KΩ (3003) ±1%,供应商链接,http://www.szlcsc.com/product/details_23751.html,603,LC,C23024,*,R?,贴片电阻
+0603 300Ω (3000) 1%,LC-0603_R,300Ω (3000) ±1%,供应商链接,http://www.szlcsc.com/product/details_23752.html,603,LC,C23025,*,R?,贴片电阻
+0603 30KΩ (3002) 1%,LC-0603_R,30KΩ (3002) ±1%,供应商链接,http://www.szlcsc.com/product/details_23711.html,603,LC,C22984,*,R?,贴片电阻
+0603 330KΩ (3303) 1%,LC-0603_R,330KΩ (3303) ±1%,供应商链接,http://www.szlcsc.com/product/details_23864.html,603,LC,C23137,*,R?,贴片电阻
+0603 330Ω (3300) 1%,LC-0603_R,330Ω (3300) ±1%,供应商链接,http://www.szlcsc.com/product/details_23865.html,603,LC,C23138,*,R?,贴片电阻
+0603 33KΩ (3302) 1%,LC-0603_R,33KΩ (3302) ±1%,供应商链接,http://www.szlcsc.com/product/details_4623.html,603,LC,C4216,*,R?,贴片电阻
+0603 33Ω (33R0) 1%,LC-0603_R,33Ω (33R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_23867.html,603,LC,C23140,*,R?,贴片电阻
+0603 360KΩ (3603) 1%,LC-0603_R,360KΩ (3603) ±1%,供应商链接,http://www.szlcsc.com/product/details_23873.html,603,LC,C23146,*,R?,贴片电阻
+0603 360Ω (3600) 1%,LC-0603_R,360Ω (3600) ±1%,供应商链接,http://www.szlcsc.com/product/details_25937.html,603,LC,C25194,*,R?,贴片电阻
+0603 36KΩ (3602) 1%,LC-0603_R,36KΩ (3602) ±1%,供应商链接,http://www.szlcsc.com/product/details_23874.html,603,LC,C23147,*,R?,贴片电阻
+0603 390KΩ (3903) 1%,LC-0603_R,390KΩ (3903) ±1%,供应商链接,http://www.szlcsc.com/product/details_23877.html,603,LC,C23150,*,R?,贴片电阻
+0603 390Ω (3900) 1%,LC-0603_R,390Ω (3900) ±1%,供应商链接,http://www.szlcsc.com/product/details_23878.html,603,LC,C23151,*,R?,贴片电阻
+0603 39KΩ (3902) 1%,LC-0603_R,39KΩ (3902) ±1%,供应商链接,http://www.szlcsc.com/product/details_23880.html,603,LC,C23153,*,R?,贴片电阻
+0603 3KΩ (3001) 1%,LC-0603_R,3KΩ (3001) ±1%,供应商链接,http://www.szlcsc.com/product/details_4618.html,603,LC,C4211,*,R?,贴片电阻
+0603 3MΩ (3004) 1%,LC-0603_R,3MΩ (3004) ±1%,供应商链接,http://www.szlcsc.com/product/details_23883.html,603,LC,C23156,*,R?,贴片电阻
+0603 4.3KΩ (4301) 1%,LC-0603_R,4.3KΩ (4301) ±1%,供应商链接,http://www.szlcsc.com/product/details_23886.html,603,LC,C23159,*,R?,贴片电阻
+0603 4.7KΩ (4701) 1%,LC-0603_R,4.7KΩ (4701) ±1%,供应商链接,http://www.szlcsc.com/product/details_23889.html,603,LC,C23162,*,R?,贴片电阻
+0603 4.7MΩ (4704) 1%,LC-0603_R,4.7MΩ (4704) ±1%,供应商链接,http://www.szlcsc.com/product/details_23890.html,603,LC,C23163,*,R?,贴片电阻
+0603 4.7Ω (4R70) 1%,LC-0603_R,4.7Ω (4R70) ±1%,供应商链接,http://www.szlcsc.com/product/details_23891.html,603,LC,C23164,*,R?,贴片电阻
+0603 4.99KΩ (4991) 1%,LC-0603_R,4.99KΩ (4991) ±1%,供应商链接,http://www.szlcsc.com/product/details_23773.html,603,LC,C23046,*,R?,贴片电阻
+0603 40.2KΩ (4022) 1%,LC-0603_R,40.2KΩ (4022) ±1%,供应商链接,http://www.szlcsc.com/product/details_13081.html,603,LC,C12447,*,R?,贴片电阻
+0603 430KΩ (4303) 1%,LC-0603_R,430KΩ (4303) ±1%,供应商链接,http://www.szlcsc.com/product/details_26712.html,603,LC,C25969,*,R?,贴片电阻
+0603 430Ω (4300) 1%,LC-0603_R,430Ω (4300) ±1%,供应商链接,http://www.szlcsc.com/product/details_23897.html,603,LC,C23170,*,R?,贴片电阻
+0603 43KΩ (4302) 1%,LC-0603_R,43KΩ (4302) ±1%,供应商链接,http://www.szlcsc.com/product/details_23899.html,603,LC,C23172,*,R?,贴片电阻
+0603 470KΩ (4703) 1%,LC-0603_R,470KΩ (4703) ±1%,供应商链接,http://www.szlcsc.com/product/details_23905.html,603,LC,C23178,*,R?,贴片电阻
+0603 470Ω (4700) 1%,LC-0603_R,470Ω (4700) ±1%,供应商链接,http://www.szlcsc.com/product/details_23906.html,603,LC,C23179,*,R?,贴片电阻
+0603 47KΩ (4702) 1%,LC-0603_R,47KΩ (4702) ±1%,供应商链接,http://www.szlcsc.com/product/details_26562.html,603,LC,C25819,*,R?,贴片电阻
+0603 47Ω (47R0) 1%,LC-0603_R,47Ω (47R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_23909.html,603,LC,C23182,*,R?,贴片电阻
+0603 49.9KΩ (4992) 1%,LC-0603_R,49.9KΩ (4992) ±1%,供应商链接,http://www.szlcsc.com/product/details_23911.html,603,LC,C23184,*,R?,贴片电阻
+0603 49.9Ω (49R9) 1%,LC-0603_R,49.9Ω (49R9) ±1%,供应商链接,http://www.szlcsc.com/product/details_23912.html,603,LC,C23185,*,R?,贴片电阻
+0603 5.1KΩ (5101) 1%,LC-0603_R,5.1KΩ (5101) ±1%,供应商链接,http://www.szlcsc.com/product/details_23913.html,603,LC,C23186,*,R?,贴片电阻
+0603 5.1MΩ (5104) 1%,LC-0603_R,5.1MΩ (5104) ±1%,供应商链接,http://www.szlcsc.com/product/details_13967.html,603,LC,C13320,*,R?,贴片电阻
+0603 5.1Ω (5R10) 1%,LC-0603_R,5.1Ω (5R10) ±1%,供应商链接,http://www.szlcsc.com/product/details_25940.html,603,LC,C25197,*,R?,贴片电阻
+0603 5.6KΩ (5601) 1%,LC-0603_R,5.6KΩ (5601) ±1%,供应商链接,http://www.szlcsc.com/product/details_23916.html,603,LC,C23189,*,R?,贴片电阻
+0603 510KΩ (5103) 1%,LC-0603_R,510KΩ (5103) ±1%,供应商链接,http://www.szlcsc.com/product/details_23919.html,603,LC,C23192,*,R?,贴片电阻
+0603 510Ω (5100) 1%,LC-0603_R,510Ω (5100) ±1%,供应商链接,http://www.szlcsc.com/product/details_23920.html,603,LC,C23193,*,R?,贴片电阻
+0603 51KΩ (5102) 1%,LC-0603_R,51KΩ (5102) ±1%,供应商链接,http://www.szlcsc.com/product/details_23923.html,603,LC,C23196,*,R?,贴片电阻
+0603 51Ω (51R0) 1%,LC-0603_R,51Ω (51R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_23924.html,603,LC,C23197,*,R?,贴片电阻
+0603 560KΩ (5603) 1%,LC-0603_R,560KΩ (5603) ±1%,供应商链接,http://www.szlcsc.com/product/details_23930.html,603,LC,C23203,*,R?,贴片电阻
+0603 560Ω (5600) 1%,LC-0603_R,560Ω (5600) ±1%,供应商链接,http://www.szlcsc.com/product/details_23931.html,603,LC,C23204,*,R?,贴片电阻
+0603 56KΩ (5602) 1%,LC-0603_R,56KΩ (5602) ±1%,供应商链接,http://www.szlcsc.com/product/details_23933.html,603,LC,C23206,*,R?,贴片电阻
+0603 56Ω (56R0) 1%,LC-0603_R,56Ω (56R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_25939.html,603,LC,C25196,*,R?,贴片电阻
+0603 6.2KΩ (6201) 1%,LC-0603_R,6.2KΩ (6201) ±1%,供应商链接,http://www.szlcsc.com/product/details_4667.html,603,LC,C4260,*,R?,贴片电阻
+0603 6.8KΩ (6801) 1%,LC-0603_R,6.8KΩ (6801) ±1%,供应商链接,http://www.szlcsc.com/product/details_23939.html,603,LC,C23212,*,R?,贴片电阻
+0603 620KΩ (6203) 1%,LC-0603_R,620KΩ (6203) ±1%,供应商链接,http://www.szlcsc.com/product/details_23946.html,603,LC,C23219,*,R?,贴片电阻
+0603 620Ω (6200) 1%,LC-0603_R,620Ω (6200) ±1%,供应商链接,http://www.szlcsc.com/product/details_23947.html,603,LC,C23220,*,R?,贴片电阻
+0603 62KΩ (6202) 1%,LC-0603_R,62KΩ (6202) ±1%,供应商链接,http://www.szlcsc.com/product/details_23948.html,603,LC,C23221,*,R?,贴片电阻
+0603 680KΩ (6803) 1%,LC-0603_R,680KΩ (6803) ±1%,供应商链接,http://www.szlcsc.com/product/details_26565.html,603,LC,C25822,*,R?,贴片电阻
+0603 680Ω (6800) 1%,LC-0603_R,680Ω (6800) ±1%,供应商链接,http://www.szlcsc.com/product/details_23955.html,603,LC,C23228,*,R?,贴片电阻
+0603 68KΩ (6802) 1%,LC-0603_R,68KΩ (6802) ±1%,供应商链接,http://www.szlcsc.com/product/details_23958.html,603,LC,C23231,*,R?,贴片电阻
+0603 68Ω (68R0) 1%,LC-0603_R,68Ω (68R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_28341.html,603,LC,C27592,*,R?,贴片电阻
+0603 7.5KΩ (7501) 1%,LC-0603_R,7.5KΩ (7501) ±1%,供应商链接,http://www.szlcsc.com/product/details_23961.html,603,LC,C23234,*,R?,贴片电阻
+0603 750KΩ (7503) 1%,LC-0603_R,750KΩ (7503) ±1%,供应商链接,http://www.szlcsc.com/product/details_23967.html,603,LC,C23240,*,R?,贴片电阻
+0603 750Ω (7500) 1%,LC-0603_R,750Ω (7500) ±1%,供应商链接,http://www.szlcsc.com/product/details_23968.html,603,LC,C23241,*,R?,贴片电阻
+0603 75KΩ (7502) 1%,LC-0603_R,75KΩ (7502) ±1%,供应商链接,http://www.szlcsc.com/product/details_23969.html,603,LC,C23242,*,R?,贴片电阻
+0603 75Ω (75R0) 1%,LC-0603_R,75Ω (75R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_4682.html,603,LC,C4275,*,R?,贴片电阻
+0603 8.2KΩ (8201) 1%,LC-0603_R,8.2KΩ (8201) ±1%,供应商链接,http://www.szlcsc.com/product/details_26724.html,603,LC,C25981,*,R?,贴片电阻
+0603 820Ω (8200) 1%,LC-0603_R,820Ω (8200) ±1%,供应商链接,http://www.szlcsc.com/product/details_23980.html,603,LC,C23253,*,R?,贴片电阻
+0603 82KΩ (8202) 1%,LC-0603_R,82KΩ (8202) ±1%,供应商链接,http://www.szlcsc.com/product/details_23981.html,603,LC,C23254,*,R?,贴片电阻
+0603 82Ω (82R0) 1%,LC-0603_R,82Ω (82R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_23982.html,603,LC,C23255,*,R?,贴片电阻
+0603 9.1KΩ (9101) 1%,LC-0603_R,9.1KΩ (9101) ±1%,供应商链接,http://www.szlcsc.com/product/details_23987.html,603,LC,C23260,*,R?,贴片电阻
+0603 910Ω (9100) 1%,LC-0603_R,910Ω (9100) ±1%,供应商链接,http://www.szlcsc.com/product/details_23991.html,603,LC,C23264,*,R?,贴片电阻
+0603 91KΩ (9102) 1%,LC-0603_R,91KΩ (9102) ±1%,供应商链接,http://www.szlcsc.com/product/details_23992.html,603,LC,C23265,*,R?,贴片电阻
+0603 91Ω (91R0) 1%,LC-0603_R,91Ω (91R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_25942.html,603,LC,C25199,*,R?,贴片电阻
+0603*4  10KΩ (103) 5%,LC-0603_Rx4,10KΩ (103) ±5%,供应商链接,http://www.szlcsc.com/product/details_30472.html,0603*4,LC,C29718,*,R?,贴片排阻
+0603*4  1KΩ (102) 5%,LC-0603_Rx4,1KΩ (102) ±5%,供应商链接,http://www.szlcsc.com/product/details_20907.html,0603*4,LC,C20197,*,R?,贴片排阻
+0603*4  4.7KΩ (472) 5%,LC-0603_Rx4,4.7KΩ (472) ±5%,供应商链接,http://www.szlcsc.com/product/details_2332.html,0603*4,LC,C1980,*,R?,贴片排阻
+0603*4 470Ω (471) 5%,LC-0603_Rx4,470Ω (471) ±5%,供应商链接,http://www.szlcsc.com/product/details_26253.html,0603*4,LC,C25510,*,R?,贴片排阻
+0805 0Ω (0R0) 1%,LC-0805_R,0Ω (0R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18165.html,805,LC,C17477,*,R?,贴片电阻
+0805 1.2KΩ (1201) 1%,LC-0805_R,1.2KΩ (1201) ±1%,供应商链接,http://www.szlcsc.com/product/details_18067.html,805,LC,C17379,*,R?,贴片电阻
+0805 1.2MΩ (1204) 1%,LC-0805_R,1.2MΩ (1204) ±1%,供应商链接,http://www.szlcsc.com/product/details_18068.html,805,LC,C17380,*,R?,贴片电阻
+0805 1.5KΩ (1501) 1%,LC-0805_R,1.5KΩ (1501) ±1%,供应商链接,http://www.szlcsc.com/product/details_4717.html,805,LC,C4310,*,R?,贴片电阻
+0805 1.5MΩ (1504) 1%,LC-0805_R,1.5MΩ (1504) ±1%,供应商链接,http://www.szlcsc.com/product/details_26853.html,805,LC,C26110,*,R?,贴片电阻
+0805 1.8KΩ (1801) 1%,LC-0805_R,1.8KΩ (1801) ±1%,供应商链接,http://www.szlcsc.com/product/details_18086.html,805,LC,C17398,*,R?,贴片电阻
+0805 1.8MΩ (1804) 1%,LC-0805_R,1.8MΩ (1804) ±1%,供应商链接,http://www.szlcsc.com/product/details_18087.html,805,LC,C17399,*,R?,贴片电阻
+0805 100KΩ (1003) 1%,LC-0805_R,100KΩ (1003) ±1%,供应商链接,http://www.szlcsc.com/product/details_18095.html,805,LC,C17407,*,R?,贴片电阻
+0805 100Ω (1000) 1%,LC-0805_R,100Ω (1000) ±1%,供应商链接,http://www.szlcsc.com/product/details_18096.html,805,LC,C17408,*,R?,贴片电阻
+0805 10KΩ (1002) 1%,LC-0805_R,10KΩ (1002) ±1%,供应商链接,http://www.szlcsc.com/product/details_18102.html,805,LC,C17414,*,R?,贴片电阻
+0805 10MΩ (1005) 1%,LC-0805_R,10MΩ (1005) ±1%,供应商链接,http://www.szlcsc.com/product/details_26851.html,805,LC,C26108,*,R?,贴片电阻
+0805 10Ω (10R0) 1%,LC-0805_R,10Ω (10R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18103.html,805,LC,C17415,*,R?,贴片电阻
+0805 110KΩ (1103) 1%,LC-0805_R,110KΩ (1103) ±1%,供应商链接,http://www.szlcsc.com/product/details_18110.html,805,LC,C17422,*,R?,贴片电阻
+0805 11KΩ (1102) 1%,LC-0805_R,11KΩ (1102) ±1%,供应商链接,http://www.szlcsc.com/product/details_18117.html,805,LC,C17429,*,R?,贴片电阻
+0805 120KΩ (1203) 1%,LC-0805_R,120KΩ (1203) ±1%,供应商链接,http://www.szlcsc.com/product/details_18124.html,805,LC,C17436,*,R?,贴片电阻
+0805 120Ω (1200) 1%,LC-0805_R,120Ω (1200) ±1%,供应商链接,http://www.szlcsc.com/product/details_18125.html,805,LC,C17437,*,R?,贴片电阻
+0805 12KΩ (1202) 1%,LC-0805_R,12KΩ (1202) ±1%,供应商链接,http://www.szlcsc.com/product/details_18132.html,805,LC,C17444,*,R?,贴片电阻
+0805 13KΩ (1302) 1%,LC-0805_R,13KΩ (1302) ±1%,供应商链接,http://www.szlcsc.com/product/details_18143.html,805,LC,C17455,*,R?,贴片电阻
+0805 150KΩ (1503) 1%,LC-0805_R,150KΩ (1503) ±1%,供应商链接,http://www.szlcsc.com/product/details_18158.html,805,LC,C17470,*,R?,贴片电阻
+0805 150Ω (1500) 1%,LC-0805_R,150Ω (1500) ±1%,供应商链接,http://www.szlcsc.com/product/details_18159.html,805,LC,C17471,*,R?,贴片电阻
+0805 15KΩ (1502) 1%,LC-0805_R,15KΩ (1502) ±1%,供应商链接,http://www.szlcsc.com/product/details_18163.html,805,LC,C17475,*,R?,贴片电阻
+0805 15Ω (15R0) 1%,LC-0805_R,15Ω (15R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18168.html,805,LC,C17480,*,R?,贴片电阻
+0805 16KΩ (1602) 1%,LC-0805_R,16KΩ (1602) ±1%,供应商链接,http://www.szlcsc.com/product/details_18178.html,805,LC,C17490,*,R?,贴片电阻
+0805 180KΩ (1803) 1%,LC-0805_R,180KΩ (1803) ±1%,供应商链接,http://www.szlcsc.com/product/details_18189.html,805,LC,C17501,*,R?,贴片电阻
+0805 180Ω (1800) 1%,LC-0805_R,180Ω (1800) ±1%,供应商链接,http://www.szlcsc.com/product/details_26013.html,805,LC,C25270,*,R?,贴片电阻
+0805 18KΩ (1802) 1%,LC-0805_R,18KΩ (1802) ±1%,供应商链接,http://www.szlcsc.com/product/details_18194.html,805,LC,C17506,*,R?,贴片电阻
+0805 1KΩ (1001) 1%,LC-0805_R,1KΩ (1001) ±1%,供应商链接,http://www.szlcsc.com/product/details_18201.html,805,LC,C17513,*,R?,贴片电阻
+0805 1MΩ (1004) 1%,LC-0805_R,1MΩ (1004) ±1%,供应商链接,http://www.szlcsc.com/product/details_18202.html,805,LC,C17514,*,R?,贴片电阻
+0805 1Ω (1R00) 1%,LC-0805_R,1Ω (1R00) ±1%,供应商链接,http://www.szlcsc.com/product/details_26014.html,805,LC,C25271,*,R?,贴片电阻
+0805 2.2KΩ (2201) 1%,LC-0805_R,2.2KΩ (2201) ±1%,供应商链接,http://www.szlcsc.com/product/details_18208.html,805,LC,C17520,*,R?,贴片电阻
+0805 2.2MΩ (2204) 1%,LC-0805_R,2.2MΩ (2204) ±1%,供应商链接,http://www.szlcsc.com/product/details_26856.html,805,LC,C26113,*,R?,贴片电阻
+0805 2.2Ω (2R20) 1%,LC-0805_R,2.2Ω (2R20) ±1%,供应商链接,http://www.szlcsc.com/product/details_18209.html,805,LC,C17521,*,R?,贴片电阻
+0805 2.4KΩ (2401) 1%,LC-0805_R,2.4KΩ (2401) ±1%,供应商链接,http://www.szlcsc.com/product/details_18214.html,805,LC,C17526,*,R?,贴片电阻
+0805 2.7KΩ (2701) 1%,LC-0805_R,2.7KΩ (2701) ±1%,供应商链接,http://www.szlcsc.com/product/details_18218.html,805,LC,C17530,*,R?,贴片电阻
+0805 200KΩ (2003) 1%,LC-0805_R,200KΩ (2003) ±1%,供应商链接,http://www.szlcsc.com/product/details_18227.html,805,LC,C17539,*,R?,贴片电阻
+0805 200Ω (2000) 1%,LC-0805_R,200Ω (2000) ±1%,供应商链接,http://www.szlcsc.com/product/details_18228.html,805,LC,C17540,*,R?,贴片电阻
+0805 20KΩ (2002) 1%,LC-0805_R,20KΩ (2002) ±1%,供应商链接,http://www.szlcsc.com/product/details_4735.html,805,LC,C4328,*,R?,贴片电阻
+0805 20Ω (20R0) 1%,LC-0805_R,20Ω (20R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18232.html,805,LC,C17544,*,R?,贴片电阻
+0805 220KΩ (2203) 1%,LC-0805_R,220KΩ (2203) ±1%,供应商链接,http://www.szlcsc.com/product/details_18244.html,805,LC,C17556,*,R?,贴片电阻
+0805 220Ω (2200) 1%,LC-0805_R,220Ω (2200) ±1%,供应商链接,http://www.szlcsc.com/product/details_18245.html,805,LC,C17557,*,R?,贴片电阻
+0805 22KΩ (2202) 1%,LC-0805_R,22KΩ (2202) ±1%,供应商链接,http://www.szlcsc.com/product/details_18248.html,805,LC,C17560,*,R?,贴片电阻
+0805 22Ω (22R0) 1%,LC-0805_R,22Ω (22R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18249.html,805,LC,C17561,*,R?,贴片电阻
+0805 240KΩ (2403) 1%,LC-0805_R,240KΩ (2403) ±1%,供应商链接,http://www.szlcsc.com/product/details_26567.html,805,LC,C25824,*,R?,贴片电阻
+0805 240Ω (2400) 1%,LC-0805_R,240Ω (2400) ±1%,供应商链接,http://www.szlcsc.com/product/details_18260.html,805,LC,C17572,*,R?,贴片电阻
+0805 24KΩ (2402) 1%,LC-0805_R,24KΩ (2402) ±1%,供应商链接,http://www.szlcsc.com/product/details_18263.html,805,LC,C17575,*,R?,贴片电阻
+0805 270KΩ (2703) 1%,LC-0805_R,270KΩ (2703) ±1%,供应商链接,http://www.szlcsc.com/product/details_18277.html,805,LC,C17589,*,R?,贴片电阻
+0805 270Ω (2700) 1%,LC-0805_R,270Ω (2700) ±1%,供应商链接,http://www.szlcsc.com/product/details_18278.html,805,LC,C17590,*,R?,贴片电阻
+0805 27KΩ (2702) 1%,LC-0805_R,27KΩ (2702) ±1%,供应商链接,http://www.szlcsc.com/product/details_18281.html,805,LC,C17593,*,R?,贴片电阻
+0805 27Ω (27R0) 1%,LC-0805_R,27Ω (27R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18282.html,805,LC,C17594,*,R?,贴片电阻
+0805 2KΩ (2001) 1%,LC-0805_R,2KΩ (2001) ±1%,供应商链接,http://www.szlcsc.com/product/details_18292.html,805,LC,C17604,*,R?,贴片电阻
+0805 2MΩ (2004) 1%,LC-0805_R,2MΩ (2004) ±1%,供应商链接,http://www.szlcsc.com/product/details_26855.html,805,LC,C26112,*,R?,贴片电阻
+0805 2Ω (2R00) 1%,LC-0805_R,2Ω (2R00) ±1%,供应商链接,http://www.szlcsc.com/product/details_18294.html,805,LC,C17606,*,R?,贴片电阻
+0805 3.3KΩ (3301) 1%,LC-0805_R,3.3KΩ (3301) ±1%,供应商链接,http://www.szlcsc.com/product/details_26753.html,805,LC,C26010,*,R?,贴片电阻
+0805 3.6KΩ (3601) 1%,LC-0805_R,3.6KΩ (3601) ±1%,供应商链接,http://www.szlcsc.com/product/details_19056.html,805,LC,C18359,*,R?,贴片电阻
+0805 3.9KΩ (3901) 1%,LC-0805_R,3.9KΩ (3901) ±1%,供应商链接,http://www.szlcsc.com/product/details_18302.html,805,LC,C17614,*,R?,贴片电阻
+0805 300KΩ (3003) 1%,LC-0805_R,300KΩ (3003) ±1%,供应商链接,http://www.szlcsc.com/product/details_18304.html,805,LC,C17616,*,R?,贴片电阻
+0805 300Ω (3000) 1%,LC-0805_R,300Ω (3000) ±1%,供应商链接,http://www.szlcsc.com/product/details_18305.html,805,LC,C17617,*,R?,贴片电阻
+0805 330KΩ (3303) 1%,LC-0805_R,330KΩ (3303) ±1%,供应商链接,http://www.szlcsc.com/product/details_18317.html,805,LC,C17629,*,R?,贴片电阻
+0805 330Ω (3300) 1%,LC-0805_R,330Ω (3300) ±1%,供应商链接,http://www.szlcsc.com/product/details_18318.html,805,LC,C17630,*,R?,贴片电阻
+0805 33KΩ (3302) 1%,LC-0805_R,33KΩ (3302) ±1%,供应商链接,http://www.szlcsc.com/product/details_18321.html,805,LC,C17633,*,R?,贴片电阻
+0805 33Ω (33R0) 1%,LC-0805_R,33Ω (33R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18322.html,805,LC,C17634,*,R?,贴片电阻
+0805 36KΩ (3602) 1%,LC-0805_R,36KΩ (3602) ±1%,供应商链接,http://www.szlcsc.com/product/details_4767.html,805,LC,C4360,*,R?,贴片电阻
+0805 390KΩ (3903) 1%,LC-0805_R,390KΩ (3903) ±1%,供应商链接,http://www.szlcsc.com/product/details_18344.html,805,LC,C17656,*,R?,贴片电阻
+0805 390Ω (3900) 1%,LC-0805_R,390Ω (3900) ±1%,供应商链接,http://www.szlcsc.com/product/details_18343.html,805,LC,C17655,*,R?,贴片电阻
+0805 39KΩ (3902) 1%,LC-0805_R,39KΩ (3902) ±1%,供应商链接,http://www.szlcsc.com/product/details_26569.html,805,LC,C25826,*,R?,贴片电阻
+0805 3KΩ (3001) 1%,LC-0805_R,3KΩ (3001) ±1%,供应商链接,http://www.szlcsc.com/product/details_18349.html,805,LC,C17661,*,R?,贴片电阻
+0805 3MΩ (305) 5%,LC-0805_R,3MΩ (305) ±5%,供应商链接,http://www.szlcsc.com/product/details_26860.html,805,LC,C26117,*,R?,贴片电阻
+0805 4.3KΩ (4301) 1%,LC-0805_R,4.3KΩ (4301) ±1%,供应商链接,http://www.szlcsc.com/product/details_18355.html,805,LC,C17667,*,R?,贴片电阻
+0805 4.7KΩ (4701) 1%,LC-0805_R,4.7KΩ (4701) ±1%,供应商链接,http://www.szlcsc.com/product/details_18361.html,805,LC,C17673,*,R?,贴片电阻
+0805 4.7MΩ (4704) 1%,LC-0805_R,4.7MΩ (4704) ±1%,供应商链接,http://www.szlcsc.com/product/details_18362.html,805,LC,C17674,*,R?,贴片电阻
+0805 4.7Ω (4R70) 1%,LC-0805_R,4.7Ω (4R70) ±1%,供应商链接,http://www.szlcsc.com/product/details_18363.html,805,LC,C17675,*,R?,贴片电阻
+0805 4.99KΩ (4991) 1%,LC-0805_R,4.99KΩ (4991) ±1%,供应商链接,http://www.szlcsc.com/product/details_18365.html,805,LC,C17677,*,R?,贴片电阻
+0805 40.2KΩ (4022) 1%,LC-0805_R,40.2KΩ (4022) ±1%,供应商链接,http://www.szlcsc.com/product/details_18366.html,805,LC,C17678,*,R?,贴片电阻
+0805 43KΩ (4302) 1%,LC-0805_R,43KΩ (4302) ±1%,供应商链接,http://www.szlcsc.com/product/details_18383.html,805,LC,C17695,*,R?,贴片电阻
+0805 470KΩ (4703) 1%,LC-0805_R,470KΩ (4703) ±1%,供应商链接,http://www.szlcsc.com/product/details_18397.html,805,LC,C17709,*,R?,贴片电阻
+0805 470Ω (4700) 1%,LC-0805_R,470Ω (4700) ±1%,供应商链接,http://www.szlcsc.com/product/details_18398.html,805,LC,C17710,*,R?,贴片电阻
+0805 47KΩ (4702) 1%,LC-0805_R,47KΩ (4702) ±1%,供应商链接,http://www.szlcsc.com/product/details_18401.html,805,LC,C17713,*,R?,贴片电阻
+0805 47Ω (47R0) 1%,LC-0805_R,47Ω (47R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18402.html,805,LC,C17714,*,R?,贴片电阻
+0805 49.9KΩ (4992) 1%,LC-0805_R,49.9KΩ (4992) ±1%,供应商链接,http://www.szlcsc.com/product/details_18407.html,805,LC,C17719,*,R?,贴片电阻
+0805 49.9Ω (49R9) 1%,LC-0805_R,49.9Ω (49R9) ±1%,供应商链接,http://www.szlcsc.com/product/details_18408.html,805,LC,C17720,*,R?,贴片电阻
+0805 5.1KΩ (5101) 1%,LC-0805_R,5.1KΩ (5101) ±1%,供应商链接,http://www.szlcsc.com/product/details_28584.html,805,LC,C27834,*,R?,贴片电阻
+0805 5.1MΩ (5104) 1%,LC-0805_R,5.1MΩ (5104) ±1%,供应商链接,http://www.szlcsc.com/product/details_26857.html,805,LC,C26114,*,R?,贴片电阻
+0805 5.1Ω (5R10) 1%,LC-0805_R,5.1Ω (5R10) ±1%,供应商链接,http://www.szlcsc.com/product/details_18412.html,805,LC,C17724,*,R?,贴片电阻
+0805 5.6KΩ (5601) 1%,LC-0805_R,5.6KΩ (5601) ±1%,供应商链接,http://www.szlcsc.com/product/details_4789.html,805,LC,C4382,*,R?,贴片电阻
+0805 510KΩ (5103) 1%,LC-0805_R,510KΩ (5103) ±1%,供应商链接,http://www.szlcsc.com/product/details_18421.html,805,LC,C17733,*,R?,贴片电阻
+0805 510Ω (5100) 1%,LC-0805_R,510Ω (5100) ±1%,供应商链接,http://www.szlcsc.com/product/details_18422.html,805,LC,C17734,*,R?,贴片电阻
+0805 51KΩ (5102) 1%,LC-0805_R,51KΩ (5102) ±1%,供应商链接,http://www.szlcsc.com/product/details_18425.html,805,LC,C17737,*,R?,贴片电阻
+0805 51Ω (51R0) 1%,LC-0805_R,51Ω (51R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18426.html,805,LC,C17738,*,R?,贴片电阻
+0805 560KΩ (5603) 1%,LC-0805_R,560KΩ (5603) ±1%,供应商链接,http://www.szlcsc.com/product/details_16467.html,805,LC,C15785,*,R?,贴片电阻
+0805 560Ω (5600) 1%,LC-0805_R,560Ω (5600) ±1%,供应商链接,http://www.szlcsc.com/product/details_29388.html,805,LC,C28636,*,R?,贴片电阻
+0805 56KΩ (5602) 1%,LC-0805_R,56KΩ (5602) ±1%,供应商链接,http://www.szlcsc.com/product/details_18444.html,805,LC,C17756,*,R?,贴片电阻
+0805 56Ω (56R0) 1%,LC-0805_R,56Ω (56R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18445.html,805,LC,C17757,*,R?,贴片电阻
+0805 6.2KΩ (6201) 1%,LC-0805_R,6.2KΩ (6201) ±1%,供应商链接,http://www.szlcsc.com/product/details_18455.html,805,LC,C17767,*,R?,贴片电阻
+0805 6.8KΩ (6801) 1%,LC-0805_R,6.8KΩ (6801) ±1%,供应商链接,http://www.szlcsc.com/product/details_18460.html,805,LC,C17772,*,R?,贴片电阻
+0805 62KΩ (6202) 1%,LC-0805_R,62KΩ (6202) ±1%,供应商链接,http://www.szlcsc.com/product/details_18471.html,805,LC,C17783,*,R?,贴片电阻
+0805 680KΩ (6803) 1%,LC-0805_R,680KΩ (6803) ±1%,供应商链接,http://www.szlcsc.com/product/details_18485.html,805,LC,C17797,*,R?,贴片电阻
+0805 680Ω (6800) 1%,LC-0805_R,680Ω (6800) ±1%,供应商链接,http://www.szlcsc.com/product/details_18486.html,805,LC,C17798,*,R?,贴片电阻
+0805 68KΩ (6802) 1%,LC-0805_R,68KΩ (6802) ±1%,供应商链接,http://www.szlcsc.com/product/details_18489.html,805,LC,C17801,*,R?,贴片电阻
+0805 68Ω (68R0) 1%,LC-0805_R,68Ω (68R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18490.html,805,LC,C17802,*,R?,贴片电阻
+0805 7.5KΩ (7501) 1%,LC-0805_R,7.5KΩ (7501) ±1%,供应商链接,http://www.szlcsc.com/product/details_18495.html,805,LC,C17807,*,R?,贴片电阻
+0805 750Ω (7500) 1%,LC-0805_R,750Ω (7500) ±1%,供应商链接,http://www.szlcsc.com/product/details_18506.html,805,LC,C17818,*,R?,贴片电阻
+0805 75KΩ (7502) 1%,LC-0805_R,75KΩ (7502) ±1%,供应商链接,http://www.szlcsc.com/product/details_18507.html,805,LC,C17819,*,R?,贴片电阻
+0805 75Ω (75R0) 1%,LC-0805_R,75Ω (75R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_21350.html,805,LC,C20638,*,R?,贴片电阻
+0805 8.2KΩ (8201) 1%,LC-0805_R,8.2KΩ (8201) ±1%,供应商链接,http://www.szlcsc.com/product/details_18516.html,805,LC,C17828,*,R?,贴片电阻
+0805 820Ω (8200) 1%,LC-0805_R,820Ω (8200) ±1%,供应商链接,http://www.szlcsc.com/product/details_18525.html,805,LC,C17837,*,R?,贴片电阻
+0805 82KΩ (8202) 1%,LC-0805_R,82KΩ (8202) ±1%,供应商链接,http://www.szlcsc.com/product/details_18528.html,805,LC,C17840,*,R?,贴片电阻
+0805 82Ω (82R0) 1%,LC-0805_R,82Ω (82R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18529.html,805,LC,C17841,*,R?,贴片电阻
+0805 9.1KΩ (9101) 1%,LC-0805_R,9.1KΩ (9101) ±1%,供应商链接,http://www.szlcsc.com/product/details_18543.html,805,LC,C17855,*,R?,贴片电阻
+0805 91KΩ (9102) 1%,LC-0805_R,91KΩ (9102) ±1%,供应商链接,http://www.szlcsc.com/product/details_18554.html,805,LC,C17866,*,R?,贴片电阻
+1206 0.1Ω (R100) 1%,LC-1206_R,0.1Ω (R100) ±1%,供应商链接,http://www.szlcsc.com/product/details_26077.html,1206,LC,C25334,*,R?,贴片电阻
+1206 0Ω (0R0) 1%,LC-1206_R,0Ω (0R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18576.html,1206,LC,C17888,*,R?,贴片电阻
+1206 1.2MΩ (1204) 1%,LC-1206_R,1.2MΩ (1204) ±1%,供应商链接,http://www.szlcsc.com/product/details_22832.html,1206,LC,C22107,*,R?,贴片电阻
+1206 100KΩ (1003) 1%,LC-1206_R,100KΩ (1003) ±1%,供应商链接,http://www.szlcsc.com/product/details_18588.html,1206,LC,C17900,*,R?,贴片电阻
+1206 100Ω (1000) 1%,LC-1206_R,100Ω (1000) ±1%,供应商链接,http://www.szlcsc.com/product/details_18589.html,1206,LC,C17901,*,R?,贴片电阻
+1206 10KΩ (1002) 1%,LC-1206_R,10KΩ (1002) ±1%,供应商链接,http://www.szlcsc.com/product/details_18590.html,1206,LC,C17902,*,R?,贴片电阻
+1206 10Ω (10R0) 1%,LC-1206_R,10Ω (10R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18591.html,1206,LC,C17903,*,R?,贴片电阻
+1206 180Ω (1800) 1%,LC-1206_R,180Ω (1800) ±1%,供应商链接,http://www.szlcsc.com/product/details_18612.html,1206,LC,C17924,*,R?,贴片电阻
+1206 1KΩ (1001) 1%,LC-1206_R,1KΩ (1001) ±1%,供应商链接,http://www.szlcsc.com/product/details_4817.html,1206,LC,C4410,*,R?,贴片电阻
+1206 1Ω (1R00) 1%,LC-1206_R,1Ω (1R00) ±1%,供应商链接,http://www.szlcsc.com/product/details_18616.html,1206,LC,C17928,*,R?,贴片电阻
+1206 20Ω (20R0) 1%,LC-1206_R,20Ω (20R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18643.html,1206,LC,C17955,*,R?,贴片电阻
+1206 22Ω (22R0) 1%,LC-1206_R,22Ω (22R0) ±1%,供应商链接,http://www.szlcsc.com/product/details_18646.html,1206,LC,C17958,*,R?,贴片电阻
+1206 2KΩ (2001) 1%,LC-1206_R,2KΩ (2001) ±1%,供应商链接,http://www.szlcsc.com/product/details_18632.html,1206,LC,C17944,*,R?,贴片电阻
+1206 300Ω (3000) 1%,LC-1206_R,300Ω (3000) ±1%,供应商链接,http://www.szlcsc.com/product/details_18575.html,1206,LC,C17887,*,R?,贴片电阻
+1206 4.7KΩ (4701) 1%,LC-1206_R,4.7KΩ (4701) ±1%,供应商链接,http://www.szlcsc.com/product/details_18624.html,1206,LC,C17936,*,R?,贴片电阻
+1206 750Ω (7500) 1%,LC-1206_R,750Ω (7500) ±1%,供应商链接,http://www.szlcsc.com/product/details_18673.html,1206,LC,C17985,*,R?,贴片电阻
+SOT-23 2SC3356-T1B-A    S/YS档,LC-SOT-23(SOT-23-3),2SC3356-T1B-A    S/YS档,供应商链接,http://www.szlcsc.com/product/details_10189.html,SOT-23,LC,C9659,*,Q?,三极管
+SOT-23 MMBT5551  G1,LC-SOT-23(SOT-23-3),MMBT5551  G1,供应商链接,http://www.szlcsc.com/product/details_2502.html,SOT-23,LC,C2145,*,Q?,三极管
+SOT-23 SS8050 Y1,LC-SOT-23(SOT-23-3),SS8050 Y1,供应商链接,http://www.szlcsc.com/product/details_2507.html,SOT-23,LC,C2150,*,Q?,三极管
+SOT-89 D882,LC-SOT-89(SOT-89-3),D882,供应商链接,http://www.szlcsc.com/product/details_10164.html,SOT-89,LC,C9634,*,Q?,三极管
+SOT-23 MMBT5401 2L,LC-SOT-23(SOT-23-3),MMBT5401 2L,供应商链接,http://www.szlcsc.com/product/details_8818.html,SOT-23,LC,C8326,*,Q?,三极管
+SOT-23 SS8550 Y2,LC-SOT-23(SOT-23-3),SS8550 Y2,供应商链接,http://www.szlcsc.com/product/details_9037.html,SOT-23,LC,C8542,*,Q?,三极管
+SOT-89 B772 160-320,LC-SOT-89(SOT-89-3),B772 160-320,供应商链接,http://www.szlcsc.com/product/details_25018.html,SOT-89,LC,C24278,*,Q?,三极管
+LL-34 ZMM3V3,LC-LL-34,ZMM3V3,供应商链接,http://www.szlcsc.com/product/details_8535.html,LL-34,LC,C8056,*,D?,稳压二极管
+LL-34 ZMM5V6,LC-LL-34,ZMM5V6,供应商链接,http://www.szlcsc.com/product/details_8541.html,LL-34,LC,C8062,*,D?,稳压二极管
